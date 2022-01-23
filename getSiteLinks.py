@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-
 #modules
 from colorama import Back
 import requests
@@ -32,27 +31,22 @@ for link in all_urls:
         if r"gatech.edu" in href:
         #internal link
             internal_urls.add(href)
-         
         elif href[0]=="#":
         #same page target link
             internal_urls.add("{}{}".format(url, href))
-            
         else:
         #external link
             external_urls.add(href)
-        
+
 #print(Back.MAGENTA  + "Total External URLs: {}\n".format(len(internal_urls)))
 #print("Total External URLs: {}\n".format(len(internal_urls)))
-
 #f.write("Total External URLs: {}\n".format(len(internal_urls)))
+
 for url in internal_urls:
 #    print(Back.GREEN + "Internal URL {}".format(url))
     f.write("Internal URL {}".format(url))
     f.write("\n")
 #    print("Internal URL {}".format(url))
-
-
-
 #print(Back.MAGENTA  + "\n\nTotal External URLs: {}\n".format(len(external_urls)))
 #print("\n\nTotal External URLs: {}\n".format(len(external_urls)))
 #f.write("\n\nTotal External URLs: {}\n".format(len(external_urls)))
