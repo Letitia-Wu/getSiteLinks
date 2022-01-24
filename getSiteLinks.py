@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import ssl
 
 #page url
-url = r"https://www.gatech.edu/"
+url = r"https://umich.edu"
 
 #send get request
 response = requests.get(url)
@@ -28,7 +28,7 @@ for link in all_urls:
     href=link.get('href')
     
     if href:
-        if r"gatech.edu" in href:
+        if r"umich.edu" in href:
         #internal link
             internal_urls.add(href)
         elif href[0]=="#":
