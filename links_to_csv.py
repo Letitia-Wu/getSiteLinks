@@ -47,11 +47,18 @@ def get_links(url_list, keywords_list):
                         keywords_all += keyword
                         keywords_all += " "
                     href = str(link.get('href'))
-                    if href.startswith("/") or href.startswith("#"):
-                        href = url + href
-                        if href not in all_hrefs_str:
-                            all_hrefs_str += href
-                            all_hrefs_str += "\n"
+#                    if href.startswith("/") or href.startswith("#"):
+                    if "http" not in href:
+                        if href.startswith("/") or href.startswith("#"):
+                            href = url + href
+                            if href not in all_hrefs_str:
+                                all_hrefs_str += href
+                                all_hrefs_str += "\n"
+                        else:
+                            href = url + "/" + href
+                            if href not in all_hrefs_str:
+                                all_hrefs_str += href
+                                all_hrefs_str += "\n"
                     else:
                         if  href not in all_hrefs_str:
                             all_hrefs_str += href
@@ -62,8 +69,80 @@ def get_links(url_list, keywords_list):
             links_dict["Universities"] = url
             links_dict["Links"] = all_hrefs_str
         links_dict_list.append(links_dict)
-    print(links_dict_list)
+    print("first layer : {}".format(links_dict_list))
     return links_dict_list
+
+
+def get_second_layer_links(links_dict_list):
+    # get each dict in links_dict_list
+    for dict in links_dict_list:
+        links_list = []
+        all_hrefs_str = ""
+        keywords_list = dict["Keywords"].strip().split()
+        links_list = dict["Links"].strip().split("\n")
+        for link in links_list:
+            if link.endswith("/"):
+                link = link[:-1]
+            #send get request
+            response = requests.get(link)
+            #parse html page
+            html_page = BeautifulSoup(response.text, "html.parser")
+            # get all <a> tags from the website
+            all_links = html_page.findAll("a")
+            all_hrefs_str += link
+            all_hrefs_str += "\n"
+            for second_layer_link in all_links:
+                for keyword in keywords_list:
+                    if keyword in second_layer_link:
+                        href = str(second_layer_link.get('href'))
+#                        if href.startswith("/") or href.startswith("#"):
+#                            href = link + href
+#                            if href not in all_hrefs_str:
+#                                all_hrefs_str += href
+#                                all_hrefs_str += "\n"
+                        if "http" not in href:
+                            if href.startswith("/") or href.startswith("#"):
+                                href = link + href
+                                if href not in all_hrefs_str:
+                                    all_hrefs_str += href
+                                    all_hrefs_str += "\n"
+                            else:
+                                href = link + "/" + href
+                                if href not in all_hrefs_str:
+                                    all_hrefs_str += href
+                                    all_hrefs_str += "\n"
+                                
+                        else:
+                            if  href not in all_hrefs_str:
+                                all_hrefs_str += href
+                                all_hrefs_str += "\n"
+        dict["Links"] = all_hrefs_str
+        
+#    print("second layer : {}".format(links_dict_list))
+
+    return links_dict_list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Write the data created by get_links to a csv file
 def write_csv(data, data_csv):
@@ -96,6 +175,9 @@ if __name__ == "__main__":
     
     result_txt = "Result.txt"
     write_txt(data, result_txt)
+    
+    links_dict_list = get_links(url_list, keywords_list)
+    get_second_layer_links(links_dict_list)
     
 
 
