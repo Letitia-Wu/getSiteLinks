@@ -1,0 +1,5 @@
+academic
+admission
+curriculum
+school
+program
