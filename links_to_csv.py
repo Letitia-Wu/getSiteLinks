@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import requests, ssl, sys, csv
-#from colorama import Back
+from colorama import Back
 from bs4 import BeautifulSoup
 from reportlab.platypus import SimpleDocTemplate
 

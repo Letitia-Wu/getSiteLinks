@@ -2,9 +2,13 @@
 
 import requests, ssl, sys, csv
 from bs4 import BeautifulSoup
+
 # Get the lists of urls and keywords from read_file.py
 from read_file import read_keywords
 from read_file import read_url
+
+import datetime
+from datetime import date
 
 # Turn url_list into a list of lists
 def create_url_lists(url_list):
@@ -24,7 +28,7 @@ def create_url_lists(url_list):
 # Add the resulted href to a list
 # Add the list to link_list which contains lists of the urls found on each page
 def get_links(url_lists, keywords_list):
-    print("Getting urls ...")
+    print("Getting links ...")
     # a list of lists of urls found on each page
     link_lists = []
     for url_list in url_lists:
@@ -53,16 +57,37 @@ def get_links(url_lists, keywords_list):
                         if href not in new_url_list:
                             new_url_list.append(href)
         link_lists.append(new_url_list)
-    print("Got urls")
+    print("Got links")
     return link_lists
+
+def write_txt(keywords_list, link_lists, report_txt):
+    print("Writing txt...")
+    d = date.today()
+    today = d.strftime("%B %d, %Y")
+    f = open(report_txt, "w")
+    title = "{} websites searched with the keywords: {}\nGenerated on {}\n\n".format(len(link_lists), " ".join(keywords_list), today)
+    f.write(title)
+    for link_list in link_lists:
+        f.write("Website searched: {}\n".format(link_list[0]))
+        f.write("{} results: \n".format(len(link_list)))
+        for link in link_list:
+            f.write(link)
+            f.write("\n")
+        f.write("\n")
+    f.close()
+    print("TXT written")
+    print("Done")
+    return report_txt
 
 if __name__ == "__main__":
     file_keywords = "keywords.txt"
     file_url = "school_links.txt"
+    report_txt = "Websites info.txt"
     
     keywords_list = read_keywords(file_keywords)
     url_list = read_url(file_url)
     url_lists = create_url_lists(url_list)
 
-    print(get_links(url_lists, keywords_list))
+    link_lists = get_links(url_lists, keywords_list)
+    write_txt(keywords_list, link_lists, report_txt)
 
