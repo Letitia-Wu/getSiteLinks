@@ -2,5 +2,9 @@ school
 academic
 admission
 curriculum
-program
+program 
 college
+master
+graduate
+major
+mba

@@ -1,14 +1,15 @@
-12 universities searched with the keywords: 'school' 'academic' 'admission' 'curriculum' 'program' 'college' 
-Generated on February 01, 2022
+12 universities searched with the keywords: 'school' 'academic' 'admission' 'curriculum' 'program' 'college' 'master' 'graduate' 'major' 'mba' 
+Generated on February 04, 2022
 
 
 --------------------------------
 
 University: https://www.gatech.edu
-11 results: 
+19 results: 
 Academic Environment:  https://www.gatech.edu/academics-education
 Majors and Degrees:  https://www.gatech.edu/academics/all-degree-programs
 Colleges and Schools:  https://www.gatech.edu/academics/colleges-and-schools
+Academic Calendar:  https://registrar.gatech.edu/calendar
 Admissions Overview:  https://www.gatech.edu/admission
 Campus Tours:  https://admission.gatech.edu/visit
 :  https://www.gatech.edu/admissions
@@ -16,22 +17,31 @@ LinkedIn:  http://www.linkedin.com/edu/school?id=18158&trk=tyah
 Campus Visits:  http://admission.gatech.edu/visit
 Directions to Campus:  http://admission.gatech.edu/visit/directions-and-parking
 Barnes & Noble at Georgia Tech:  https://gatech.bncollege.com
+College of Computing:  https://cc.gatech.edu
+College of Design:  https://design.gatech.edu
+College of Engineering:  https://coe.gatech.edu
+College of Sciences:  https://cos.gatech.edu
+Ivan Allen College of Liberal Arts:  https://iac.gatech.edu
+Scheller College of Business:  https://scheller.gatech.edu
 Apply:  https://gatech.edu/admissions
+Parent and Family Programs:  http://parents.gatech.edu
 
 --------------------------------
 
 University: https://umich.edu
-5 results: 
+7 results: 
+Academic Calendar:  https://ro.umich.edu/calendars
 Schools & Colleges:  https://umich.edu/schools-colleges
 Academics:  https://umich.edu/academics
 More than 275 degree-programs:  http://admissions.umich.edu/academics-majors/majors-degrees
 Learn about weekly testing:  https://campusblueprint.umich.edu/testing-monitoring/sampling-tracking-program
+BloombergThe big plans that built New York City:  https://www.bloomberg.com/news/features/2022-02-02/how-new-york-s-master-planners-shaped-a-metropolis?sref=NygUVNOB
 linkedin:  http://www.linkedin.com/edu/school?id=18633&trk=edu-ca-head-title
 
 --------------------------------
 
 University: https://www.cornell.edu
-22 results: 
+25 results: 
 Admissions:  https://www.cornell.edu/admissions
 Apply:  http://admissions.cornell.edu/apply
 Admissions:  http://admissions.cornell.edu
@@ -48,19 +58,15 @@ Library:  https://www.cornell.edu/academics/library.cfm
 Continuing Education:  https://www.cornell.edu/academics/continuing.cfm
 Academic Calendar:  https://registrar.cornell.edu/academic-calendar
 Graduate Research:  http://www.gradschool.cornell.edu/academics/research-and-scholarship
+Undergraduate Research:  http://undergraduateresearch.cornell.edu
 CCE helps Buffalo get school food truck rolling:  https://news.cornell.edu/stories/2020/10/cce-helps-buffalo-get-school-food-truck-rolling
 Center for First-Year Students:  http://newstudentprograms.cornell.edu/Tatkon
 A Collegetown mural memorializes loved ones lost to illness:  https://news.cornell.edu/stories/2022/01/collegetown-mural-memorializes-loved-ones-lost-illness
 Academic Calendar:  https://www.cornell.edu/academics/calendar
 From bats to bears, program protects NYS wildlife from disease:  https://news.cornell.edu/stories/2022/01/bats-bears-program-protects-nys-wildlife-disease
-A Q&A with Dr. Michelle Moyal of the veterinary college
-
-
-
-
-A Q&A with Dr. Michelle Moyal of the veterinary college
-Keep reading
-University Relations:  https://news.cornell.edu/stories/2022/01/qa-dr-michelle-moyal-veterinary-college
+Center of Innovation optimizes digital solutions to combat agricultural pestCenter of Innovation optimizes digital solutions to combat agricultural pestKeep readingUniversity Relations:  https://news.cornell.edu/stories/2022/01/center-innovation-optimizes-digital-solutions-combat-agricultural-pest
+A Q&A with Dr. Michelle Moyal of the veterinary collegeA Q&A with Dr. Michelle Moyal of the veterinary collegeKeep readingUniversity Relations:  https://news.cornell.edu/stories/2022/01/qa-dr-michelle-moyal-veterinary-college
+Academic Calendar:  https://registrar.cornell.edu/calendar
 
 --------------------------------
 
@@ -76,37 +82,65 @@ Graduate:  http://www.cmu.edu/graduate/admissions
 --------------------------------
 
 University: https://www.columbia.edu
-6 results: 
+10 results: 
 Admissions:  https://www.columbia.edu/content/admissions
 Academics:  https://www.columbia.edu/content/academics
+Columbia Business School Opens In Manhattanville:  https://manhattanville.gsb.columbia.edu
+Giving:  http://giving.columbia.edu
 linkedin:  https://www.linkedin.com/school/2624
 Academic Calendar:  https://www.registrar.columbia.edu/event/academic-calendar
+Commencement:  https://commencement.columbia.edu
 Columbia Data:  https://www.columbia.edu/content/statistics-and-facts
+Cuttlefish Are Masters of Camouflage: This Columbia Postdoc Is Discovering Why:  https://www.youtube.com/watch?v=-QxFTsS-GSk
 Double Discovery Center:  https://ddc.college.columbia.edu
 
 --------------------------------
 
 University: https://www.usc.edu
-14 results: 
+38 results: 
 Academic Deans:  http://about.usc.edu/administration/academic-deans
+Admission:  http://admit.usc.edu
 Undergraduate Admission:  http://admission.usc.edu
+Graduate Admission:  http://gradadm.usc.edu
 Academics:  https://academics.usc.edu
+Letters, Arts and Sciences USC Dana and David Dornsife College of Letters, Arts and Sciences:  http://dornsife.usc.edu
 Accounting USC Leventhal School of Accounting:  https://www.marshall.usc.edu/leventhal-school-accounting
+Architecture USC School of Architecture:  http://arch.usc.edu
+Art and Design USC Roski School of Art and Design:  https://roski.usc.edu
+Business USC Marshall School of Business:  https://www.marshall.usc.edu
+Cinematic Arts USC School of Cinematic Arts:  http://cinema.usc.edu
+Communication, Journalism USC Annenberg School for Communication and Journalism:  http://annenberg.usc.edu
+Dance USC Glorya Kaufman School of Dance:  http://kaufman.usc.edu
+Dentistry Herman Ostrow School of Dentistry of USC:  https://dentistry.usc.edu
+Dramatic Arts USC School of Dramatic Arts:  http://dramaticarts.usc.edu
+Education USC Rossier School of Education:  http://rossier.usc.edu
 Engineering USC Viterbi School of Engineering:  https://viterbischool.usc.edu
+Gerontology USC Leonard Davis School of Gerontology:  http://gero.usc.edu
+Law USC Gould School of Law:  http://gould.usc.edu
+Medicine Keck School of Medicine of USC:  http://keck.usc.edu
+Music USC Thornton School of Music:  http://music.usc.edu
 Pharmacy USC School of Pharmacy:  http://pharmacyschool.usc.edu
 Professional Studies USC Bovard College:  http://bovardcollege.usc.edu
 Public Policy USC Sol Price School of Public Policy:  http://priceschool.usc.edu
+Social Work USC Suzanne Dworak-Peck School of Social Work:  https://dworakpeck.usc.edu
+Undergraduate Education:  http://undergrad.usc.edu
 Graduate Education:  http://graduateschool.usc.edu
 USC Online (online graduate programs):  https://online.usc.edu
+Academic Records and Registrar:  http://arr.usc.edu
 Summer Programs for High School Students:  https://precollege.usc.edu
 Medical Services and Programs:  http://www.keckmedicine.org/medical-services-and-programs
+USC School of Architecture:  https://arch.usc.edu
+USC School of Cinematic Arts:  https://cinema.usc.edu
+USC Roski School of Art and Design:  http://roski.usc.edu
+USC Thornton School of Music:  https://music.usc.edu
+USC Dornsife College – Arts & Humanities:  https://dornsife.usc.edu/arts-humanities
 Academic Calendar:  http://academics.usc.edu/calendar
 LinkedIn:  https://www.linkedin.com/school/3084
 
 --------------------------------
 
 University: https://www.duke.edu
-32 results: 
+52 results: 
 Admissions:  https://admissions.duke.edu
 Visit:  https://admissions.duke.edu/visit
 Apply Now:  https://admissions.duke.edu/apply
@@ -119,31 +153,51 @@ Duke Kunshan University:  https://dukekunshan.edu.cn/en/undergraduate-admissions
 Graduate School:  https://gradschool.duke.edu
 Programs and Degrees:  https://gradschool.duke.edu/academics/programs-degrees
 Divinity School:  https://divinity.duke.edu/admissions
+Duke Kunshan University:  https://graduate.dukekunshan.edu.cn
 Fuqua School of Business:  https://www.fuqua.duke.edu/programs
+School of Law:  https://law.duke.edu/apply
 School of Medicine:  https://medschool.duke.edu/education/student-services/office-admissions
 School of Nursing:  https://nursing.duke.edu/academic-programs
 Nicholas School of the Environment:  https://nicholas.duke.edu/admissions
 Duke-NUS Medical School:  https://www.duke-nus.edu.sg/admissions
+Pratt School of Engineering:  https://pratt.duke.edu/grad
+Sanford School of Public Policy:  https://sanford.duke.edu
+Apply:  https://financialaid.duke.edu/undergraduate-applicants/apply-aid
 Calculator:  https://npc.collegeboard.org/app/duke
+Academics:  https://duke.edu
+Trinity College of Arts & Sciences:  https://trinity.duke.edu
+Pratt School of Engineering:  https://pratt.duke.edu
 Nicholas School of the Environment:  https://nicholas.duke.edu/academics/undergraduate-programs
+Office of Undergraduate Education:  https://undergrad.duke.edu
 Majors, Minors & Schools:  https://admissions.duke.edu/academic-possibilities
 Academic Life:  https://admissions.duke.edu/academic-life
 Beyond Campus:  https://admissions.duke.edu/beyond-campus
 Divinity School:  https://divinity.duke.edu/academics
+Duke-NUS Medical School:  https://www.duke-nus.edu.sg
+Duke Law School:  https://law.duke.edu/study
 Nicholas School of the Environment:  https://nicholas.duke.edu/academics
 School of Medicine:  https://medschool.duke.edu/education/degree-programs-and-admissions
 Academic Council:  https://academiccouncil.duke.edu
 Research Administration (medicine):  https://medschool.duke.edu/research/research-support-offices/office-research-administration
+Undergraduate Research:  https://undergraduateresearch.duke.edu
 Global Programs:  https://global.duke.edu/programs
 Global Learning:  https://global.duke.edu/academics
+Visiting International Student Program:  https://globaled.duke.edu/vis
 Dance:  https://danceprogram.duke.edu
+International and Domestic Programs:  https://globaled.duke.edu
+Divinity School:  https://divinity.duke.edu
+Fuqua School of Business:  https://www.fuqua.duke.edu
+Nicholas School of the Environment:  https://nicholas.duke.edu
+School of Law:  https://law.duke.edu
 School of Medicine:  https://medschool.duke.edu
+School of Nursing:  https://nursing.duke.edu
+Duke Student Assistance FundDuke setup a fund to help undergraduate, graduate and professional students deal with unexpected expenses due to COVID-19:  https://studentassistance.duke.edu
 Durham Accolades:  https://admissions.duke.edu/durham
 
 --------------------------------
 
 University: https://www.jhu.edu
-15 results: 
+26 results: 
 Apply:  https://www.jhu.edu/admissions
 Visit:  https://www.jhu.edu/admissions/visit
 See programs:  https://e-catalogue.jhu.edu/programs
@@ -158,7 +212,18 @@ Part-Time & Non-Degree Programs:  https://www.jhu.edu/academics/part-time-progra
 Summer Programs:  https://www.jhu.edu/academics/summer-programs
 Academic Calendars:  https://www.jhu.edu/academics/calendars
 Schools & Divisions:  https://www.jhu.edu/schools
+Undergraduate Admissions:  https://apply.jhu.edu
 Graduate Admissions:  https://www.jhu.edu/admissions/graduate-admissions
+Undergraduate Research:  https://www.jhu.edu/research/undergraduate-research
+Arts & Sciences:  http://krieger.jhu.edu
+Business:  http://carey.jhu.edu
+Education:  http://education.jhu.edu
+Engineering:  http://engineering.jhu.edu
+International Affairs:  http://www.sais-jhu.edu
+Medicine:  http://www.hopkinsmedicine.org/som
+Music & Dance:  http://www.peabody.jhu.edu
+Nursing:  http://nursing.jhu.edu
+Public Health:  http://www.jhsph.edu
 
 --------------------------------
 
@@ -174,14 +239,15 @@ Online Learning:  https://www.upenn.edu/academics/online-learning
 Off-campus Learning:  https://www.upenn.edu/academics/off-campus-learning
 Admissions & Aid:  https://www.upenn.edu/admissions
 Building off years of success, Penn and Lea School formalize partnership:  https://penntoday.upenn.edu/news/building-years-success-penn-and-lea-school-formalize-partnership
-Mentor support for the first-generation college experience:  https://penntoday.upenn.edu/news/penn-alumni-student-mentor-support-intern
+Mid-winter glow vibes on College Green.@uofpenn:  https://www.instagram.com/p/CZKdI0uphdT/
 
 --------------------------------
 
 University: https://www.northwestern.edu
-17 results: 
+19 results: 
 Academic Calendar:  http://planitpurple.northwestern.edu/calendar/academic_calendar
 Academics:  https://www.northwestern.edu/academics/index.html
+ExpandAcademics Submenu:  https://www.northwestern.edu#
 Undergraduate Programs:  https://admissions.northwestern.edu/academics/majors-minors/index.html
 Graduate Programs:  https://www.northwestern.edu/academics/graduate-a-to-z.html
 Continuing and Professional Programs:  https://www.northwestern.edu/academics/professional-studies-a-to-z.html
@@ -196,43 +262,67 @@ Academic Programs & Centers:  https://www.northwestern.edu/diversity/resources/a
 Global Health Studies Minor:  https://www.globalhealthstudies.northwestern.edu/academic-programs/requirements.html
 Northwestern-sponsored study abroad programs:  https://www.northwestern.edu/abroad/study-abroad/explore-programs/index.html
 Global Engagement Studies Institute (GESI):  https://www.northwestern.edu/abroad/study-abroad/get-started/program-types/gesi.html
+Undergraduate Research (UR@NU):  https://undergradresearch.northwestern.edu
 AthleticsNorthwestern sports 19 highly competitive varsity athletic programs. Get the latest Wildcat news from around the Big Ten.Go to Nusports.com:  http://www.nusports.com
 
 --------------------------------
 
 University: https://www.rice.edu
-10 results: 
+25 results: 
 :  https://www.linkedin.com/edu/school?id=19472
 Academics Overview:  https://www.rice.edu/academics
+George R. Brown School of Engineering:  https://engineering.rice.edu
 Jesse H. Jones Graduate School of Business:  https://business.rice.edu/?utm_medium=cpc&utm_source=website&utm_campaign=july-web-track-academics
+School of Architecture:  https://arch.rice.edu
+School of Humanities:  https://humanities.rice.edu
+School of Social Sciences:  https://socialsciences.rice.edu
+Susanne M. Glasscock School of Continuing Studies:  https://glasscock.rice.edu
+The Shepherd School of Music:  https://music.rice.edu
+Wiess School of Natural Sciences:  https://naturalsciences.rice.edu
+Majors, Minors, Departments and Programs:  https://www.rice.edu/departments
 Admission and Aid Overview:  https://www.rice.edu/admission-aid
 Office of Admission:  https://admission.rice.edu
 Visit:  https://admission.rice.edu/visit
 Undergraduate Application:  https://admission.rice.edu/apply
+Undergraduate Resources:  https://www.rice.edu/undergraduate-resources
 Graduate Programs of Study:  https://graduate.rice.edu/programsofstudy
+Graduate Application:  https://graduate.rice.edu/howtoapply
+Cost and Aid:  https://graduate.rice.edu/costofstudy
+Graduate Resources:  https://www.rice.edu/graduate-resources
+Professional and Executive Programs:  https://glasscock.rice.edu/professionals
+About the School:  https://glasscock.rice.edu/about-gscs
 Executive Education:  https://business.rice.edu/rice-business-executive-education?utm_medium=cpc&utm_source=website&utm_campaign=july-web-track-admissions
+Admission Statistics:  https://oir.rice.edu/rice-glance
 Residential Colleges:  https://dou.rice.edu/residential-colleges
 
 --------------------------------
 
 University: https://www.ucla.edu
-19 results: 
+27 results: 
 Admission:  https://www.ucla.edu/admission
 Undergraduate Admission:  https://www.ucla.edu/admission/undergraduate-admission
 Undergraduate Tuition & Fees:  https://admission.ucla.edu/tuition-aid/tuition-fees
 Undergraduate Financial Aid:  https://admission.ucla.edu/tuition-aid/financial-aid-and-scholarships
 Undergraduate Tours:  http://www.admission.ucla.edu/tours.htm
 Graduate Admission:  https://www.ucla.edu/admission/graduate-admission
+Graduate Tuition & Fees:  https://grad.ucla.edu/funding/tuition
+Graduate Funding:  https://grad.ucla.edu
 Graduate Tours:  https://grad.ucla.edu/admissions/visiting-ucla
 International Applicants:  https://www.ucla.edu/admission/international-applicants
+Extension Program:  https://www.uclaextension.edu/student-services/enrollment-services-support
 Academics:  https://www.ucla.edu/academics
 Degree Programs & Majors:  https://www.ucla.edu/academics/programs-and-majors
 College & Professional Schools:  https://www.ucla.edu/academics/college-and-schools
 Undergraduate Education:  https://www.ucla.edu/academics/undergraduate-education
 Graduate & Professional Education:  https://www.ucla.edu/academics/graduate-and-professional-education
 Continuing Education:  https://www.ucla.edu/academics/continuing-education
+Academic Advising:  https://www.registrar.ucla.edu/Academics/Academic-Counseling
+New Student Programs:  http://newstudents.ucla.edu
 Libraries:  https://www.ucla.edu/academics/libraries
 Academic Calendar:  https://registrar.ucla.edu/calendars/academic-calendar
 Graduate Research:  https://grad.ucla.edu/academics/research
 Undergraduate Research:  https://admission.ucla.edu/explore/research
+Academic Calendar:  https://www.registrar.ucla.edu/Calendars/Annual-Academic-Calendar
+Tuesday, February 8, 2022												Sharpe Fellows Mentorship Program – Business Landscape Workshop:  https://community.ucla.edu/event/9e2d4784-f5b0-611e-75cd-9a574f5ec276
+“Make each day your masterpiece.” - John Wooden #WednesdayWisdom@ucla2 weeks ago:  https://www.instagram.com/p/CY69qmDBI1g
 Linked:  https://www.linkedin.com/school/ucla

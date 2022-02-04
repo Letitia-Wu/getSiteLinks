@@ -27,11 +27,12 @@ def get_links(url_list, keywords_list):
     print("Getting links ...")
     # an empty list holding the lists containing dicts
     link_dict_list = []
+    # an empty list which will hold the href, so later we can check whether the href is unique
+    new_url_list = []
     for url in url_list:
 #    an empty list containing dicts
         dict_list = []
-        # an empty list which will hold the href, so later we can check whether the href is unique
-        new_url_list = []
+        
         #send get request
         response = requests.get(url)
         if response.status_code == 404:
@@ -45,7 +46,7 @@ def get_links(url_list, keywords_list):
         # an empty dict with the current university name, text of the links and href of the links as keys
             dict = {"university": "", "text": "", "link": ""}
             for keyword in keywords_list:
-                if keyword in str(link):
+                if keyword in str(link).lower():
                     href = str(link.get('href'))
                     if href.endswith("/"):
                         href = href[:-1]
@@ -56,14 +57,61 @@ def get_links(url_list, keywords_list):
                             href = url + "/" + href
                     if href not in new_url_list:
                         new_url_list.append(href)
-                        text = link.get_text()
+                        text = link.get_text().replace("\n", "")
                         dict["university"] = url
                         dict["text"] = text.strip()
                         dict["link"] = href.strip()
                         dict_list.append(dict)
         link_dict_list.append(dict_list)
+        print(new_url_list)
     print("Got links")
     return link_dict_list
+
+# get sublinks text and href with the kyewords of specialties
+# save the data into a list of lists containing dicts with university, text, link, subtext and sublink as the keys
+#def get_sublinks(keywords_list, link_dict_list):
+#    print("Getting sublinks ...")
+#    # an empty list holding the lists containing dicts
+#    sublinks_info = []
+#    href_list = []
+#    for dict_list in link_dict_list:
+#
+#        sublinks_dict_list = []
+#        for dict in dict_list:
+#            link = dict["link"]
+#            sublink_dict = dict
+#            #send get request
+#            response = requests.get(link)
+##            if not response.ok:
+##                raise Exception("GET failed with status code {}\n with {} ".format(response.status_code, link))
+#            #parse html page
+#            html_page = BeautifulSoup(response.text, "html.parser")
+#            # get all <a> tags from the website
+#            all_sublinks = html_page.findAll("a")
+#            for sublink in all_sublinks:
+##                sublinks_dict_list.append(dict)
+#                for keyword in keywords_list[1]:
+#                    if keyword in str(sublink).lower():
+#                        href = str(sublink.get('href'))
+#                        sublink_text = sublink.get_text()
+#                        if href.endswith("/"):
+#                            href = href[:-1]
+##                            print(href)
+#                        if "http" not in href or href.startswith("/") or href.startswith("#"):
+#                            pass
+#                        else:
+#                            if href not in href_list:
+##                                print(href)
+#                                href_list.append(href)
+#                                sublink_dict["sublink_text"] = sublink_text
+#                                sublink_dict["sublink"] = href
+#                                sublinks_dict_list.append(sublink_dict)
+##        print(sublinks_dict_list)
+#        sublinks_info.append(sublinks_dict_list)
+##    print(sublinks_info)
+#    print("Got sublinks")
+##    print(href_list)
+#    return sublinks_info
 
 def write_txt(keywords_list, link_dict_list, report_txt):
     print("Writing txt...")
@@ -87,27 +135,17 @@ def write_txt(keywords_list, link_dict_list, report_txt):
     print("TXT written")
     return report_txt
 
-
-
-
-
-
-
-
-
-
-
-
-
 def generate_report_info(keywords_list, link_dict_list):
     styles = getSampleStyleSheet()
     report_info = ""
     d = date.today()
     today = d.strftime("%B %d, %Y")
     keywords_string = ""
+    
     for keyword in keywords_list:
         keyword = "'{}' ".format(keyword)
         keywords_string += keyword
+ 
     
     report_info += "Generated on {}".format(today)
     report_info += "<br/><br/>"
@@ -123,7 +161,7 @@ def generate_report_info(keywords_list, link_dict_list):
         report_info += "<br/><br/>"
         
         for dict in link_list:
-            report_info += "<h2>{}:  </h2><font color='blue'><u>{}</u></font>".format(dict["text"], dict["link"])
+            report_info += "{}:  <font color='blue'><u>{}</u></font>".format(dict["text"], dict["link"])
             report_info += "<br/>"
         report_info += "<br/><br/>"
         report_info += "--------------------------------"
@@ -141,11 +179,13 @@ if __name__ == "__main__":
     keywords_list = read_keywords(file_keywords)
     url_list = read_url(file_url)
     link_dict_list = get_links(url_list, keywords_list)
-    
+#    sublinks_info = get_sublinks(keywords_list, link_dict_list)
+
     write_txt(keywords_list, link_dict_list, report_txt)
     
     paragraph = generate_report_info(keywords_list, link_dict_list)
     generate_report(attachment, title, paragraph)
+    
     
     print("Done")
 
