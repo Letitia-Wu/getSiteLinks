@@ -1,110 +1,109 @@
-12 universities searched with the keywords: 'school' 'academic' 'admission' 'curriculum' 'program' 'college' 'master' 'graduate' 'major' 'mba' 
-Generated on February 04, 2022
+34 universities searched with the keywords: 'school' 'academic' 'admission' 'curriculum' 'program' 'college' 'master' 'graduate' 'major' 'mba' 'finance' 'accounting' 
+Generated on February 05, 2022
 
 
 --------------------------------
 
 University: https://www.gatech.edu
-19 results: 
-Academic Environment:  https://www.gatech.edu/academics-education
-Majors and Degrees:  https://www.gatech.edu/academics/all-degree-programs
-Colleges and Schools:  https://www.gatech.edu/academics/colleges-and-schools
+20 results: 
+#Couldn't find text for this link:  https://www.gatech.edu/admissions
 Academic Calendar:  https://registrar.gatech.edu/calendar
+Academic Environment:  https://www.gatech.edu/academics-education
+Administration and Finance:  http://af.gatech.edu
 Admissions Overview:  https://www.gatech.edu/admission
-Campus Tours:  https://admission.gatech.edu/visit
-:  https://www.gatech.edu/admissions
-LinkedIn:  http://www.linkedin.com/edu/school?id=18158&trk=tyah
-Campus Visits:  http://admission.gatech.edu/visit
-Directions to Campus:  http://admission.gatech.edu/visit/directions-and-parking
+Apply:  https://gatech.edu/admissions
 Barnes & Noble at Georgia Tech:  https://gatech.bncollege.com
+Campus Tours:  https://admission.gatech.edu/visit
+Campus Visits:  http://admission.gatech.edu/visit
 College of Computing:  https://cc.gatech.edu
 College of Design:  https://design.gatech.edu
 College of Engineering:  https://coe.gatech.edu
 College of Sciences:  https://cos.gatech.edu
+Colleges and Schools:  https://www.gatech.edu/academics/colleges-and-schools
+Directions to Campus:  http://admission.gatech.edu/visit/directions-and-parking
 Ivan Allen College of Liberal Arts:  https://iac.gatech.edu
-Scheller College of Business:  https://scheller.gatech.edu
-Apply:  https://gatech.edu/admissions
+LinkedIn:  http://www.linkedin.com/edu/school?id=18158&trk=tyah
+Majors and Degrees:  https://www.gatech.edu/academics/all-degree-programs
 Parent and Family Programs:  http://parents.gatech.edu
+Scheller College of Business:  https://scheller.gatech.edu
 
 --------------------------------
 
 University: https://umich.edu
-7 results: 
+6 results: 
 Academic Calendar:  https://ro.umich.edu/calendars
-Schools & Colleges:  https://umich.edu/schools-colleges
 Academics:  https://umich.edu/academics
-More than 275 degree-programs:  http://admissions.umich.edu/academics-majors/majors-degrees
 Learn about weekly testing:  https://campusblueprint.umich.edu/testing-monitoring/sampling-tracking-program
-BloombergThe big plans that built New York City:  https://www.bloomberg.com/news/features/2022-02-02/how-new-york-s-master-planners-shaped-a-metropolis?sref=NygUVNOB
+More than 275 degree-programs:  http://admissions.umich.edu/academics-majors/majors-degrees
+Schools & Colleges:  https://umich.edu/schools-colleges
 linkedin:  http://www.linkedin.com/edu/school?id=18633&trk=edu-ca-head-title
 
 --------------------------------
 
 University: https://www.cornell.edu
 25 results: 
-Admissions:  https://www.cornell.edu/admissions
-Apply:  http://admissions.cornell.edu/apply
-Admissions:  http://admissions.cornell.edu
-Dates and Deadlines:  http://admissions.cornell.edu/apply/application-deadlines
-Costs and Aid:  http://admissions.cornell.edu/costs-aid
-Admissions:  http://www.gradschool.cornell.edu/admissions
-Fields of Study:  https://gradschool.cornell.edu/degrees-fields/cugradfos
-Financial Support:  https://gradschool.cornell.edu/financial-support
-Academics:  https://www.cornell.edu/academics
-Fields of Study:  https://www.cornell.edu/academics/fields.cfm
-Colleges & Schools:  https://www.cornell.edu/academics/colleges.cfm
-Departments:  https://www.cornell.edu/academics/departments.cfm
-Library:  https://www.cornell.edu/academics/library.cfm
-Continuing Education:  https://www.cornell.edu/academics/continuing.cfm
+A Collegetown mural memorializes loved ones lost to illness:  https://news.cornell.edu/stories/2022/01/collegetown-mural-memorializes-loved-ones-lost-illness
+A Q&A with Dr. Michelle Moyal of the veterinary collegeA Q&A with Dr. Michelle Moyal of the veterinary collegeKeep readingUniversity Relations:  https://news.cornell.edu/stories/2022/01/qa-dr-michelle-moyal-veterinary-college
 Academic Calendar:  https://registrar.cornell.edu/academic-calendar
-Graduate Research:  http://www.gradschool.cornell.edu/academics/research-and-scholarship
-Undergraduate Research:  http://undergraduateresearch.cornell.edu
+Academic Calendar:  https://www.cornell.edu/academics/calendar
+Academic Calendar:  https://registrar.cornell.edu/calendar
+Academics:  https://www.cornell.edu/academics
+Admissions:  https://www.cornell.edu/admissions
+Admissions:  http://admissions.cornell.edu
+Admissions:  http://www.gradschool.cornell.edu/admissions
+Apply:  http://admissions.cornell.edu/apply
 CCE helps Buffalo get school food truck rolling:  https://news.cornell.edu/stories/2020/10/cce-helps-buffalo-get-school-food-truck-rolling
 Center for First-Year Students:  http://newstudentprograms.cornell.edu/Tatkon
-A Collegetown mural memorializes loved ones lost to illness:  https://news.cornell.edu/stories/2022/01/collegetown-mural-memorializes-loved-ones-lost-illness
-Academic Calendar:  https://www.cornell.edu/academics/calendar
-From bats to bears, program protects NYS wildlife from disease:  https://news.cornell.edu/stories/2022/01/bats-bears-program-protects-nys-wildlife-disease
 Center of Innovation optimizes digital solutions to combat agricultural pestCenter of Innovation optimizes digital solutions to combat agricultural pestKeep readingUniversity Relations:  https://news.cornell.edu/stories/2022/01/center-innovation-optimizes-digital-solutions-combat-agricultural-pest
-A Q&A with Dr. Michelle Moyal of the veterinary collegeA Q&A with Dr. Michelle Moyal of the veterinary collegeKeep readingUniversity Relations:  https://news.cornell.edu/stories/2022/01/qa-dr-michelle-moyal-veterinary-college
-Academic Calendar:  https://registrar.cornell.edu/calendar
+Colleges & Schools:  https://www.cornell.edu/academics/colleges.cfm
+Continuing Education:  https://www.cornell.edu/academics/continuing.cfm
+Costs and Aid:  http://admissions.cornell.edu/costs-aid
+Dates and Deadlines:  http://admissions.cornell.edu/apply/application-deadlines
+Departments:  https://www.cornell.edu/academics/departments.cfm
+Fields of Study:  https://gradschool.cornell.edu/degrees-fields/cugradfos
+Fields of Study:  https://www.cornell.edu/academics/fields.cfm
+Financial Support:  https://gradschool.cornell.edu/financial-support
+From bats to bears, program protects NYS wildlife from disease:  https://news.cornell.edu/stories/2022/01/bats-bears-program-protects-nys-wildlife-disease
+Graduate Research:  http://www.gradschool.cornell.edu/academics/research-and-scholarship
+Library:  https://www.cornell.edu/academics/library.cfm
+Undergraduate Research:  http://undergraduateresearch.cornell.edu
 
 --------------------------------
 
 University: https://www.cmu.edu
 6 results: 
 Academics:  https://www.cmu.edu/academics/index.html
+Admission:  https://www.cmu.edu/student-admission/index.html
+Graduate:  http://www.cmu.edu/graduate/admissions
 Interdisciplinary Programs:  https://www.cmu.edu/academics/interdisciplinary-programs.html
 Learning for a Lifetime:  https://www.cmu.edu/academics/learning-for-a-lifetime.html
-Admission:  https://www.cmu.edu/student-admission/index.html
 Undergraduate:  https://www.cmu.edu/admission
-Graduate:  http://www.cmu.edu/graduate/admissions
 
 --------------------------------
 
 University: https://www.columbia.edu
 10 results: 
-Admissions:  https://www.columbia.edu/content/admissions
-Academics:  https://www.columbia.edu/content/academics
-Columbia Business School Opens In Manhattanville:  https://manhattanville.gsb.columbia.edu
-Giving:  http://giving.columbia.edu
-linkedin:  https://www.linkedin.com/school/2624
 Academic Calendar:  https://www.registrar.columbia.edu/event/academic-calendar
-Commencement:  https://commencement.columbia.edu
+Academics:  https://www.columbia.edu/content/academics
+Admissions:  https://www.columbia.edu/content/admissions
+Columbia Business School Opens In Manhattanville:  https://manhattanville.gsb.columbia.edu
 Columbia Data:  https://www.columbia.edu/content/statistics-and-facts
+Commencement:  https://commencement.columbia.edu
 Cuttlefish Are Masters of Camouflage: This Columbia Postdoc Is Discovering Why:  https://www.youtube.com/watch?v=-QxFTsS-GSk
 Double Discovery Center:  https://ddc.college.columbia.edu
+Giving:  http://giving.columbia.edu
+linkedin:  https://www.linkedin.com/school/2624
 
 --------------------------------
 
 University: https://www.usc.edu
 38 results: 
+Academic Calendar:  http://academics.usc.edu/calendar
 Academic Deans:  http://about.usc.edu/administration/academic-deans
-Admission:  http://admit.usc.edu
-Undergraduate Admission:  http://admission.usc.edu
-Graduate Admission:  http://gradadm.usc.edu
+Academic Records and Registrar:  http://arr.usc.edu
 Academics:  https://academics.usc.edu
-Letters, Arts and Sciences USC Dana and David Dornsife College of Letters, Arts and Sciences:  http://dornsife.usc.edu
 Accounting USC Leventhal School of Accounting:  https://www.marshall.usc.edu/leventhal-school-accounting
+Admission:  http://admit.usc.edu
 Architecture USC School of Architecture:  http://arch.usc.edu
 Art and Design USC Roski School of Art and Design:  https://roski.usc.edu
 Business USC Marshall School of Business:  https://www.marshall.usc.edu
@@ -116,213 +115,765 @@ Dramatic Arts USC School of Dramatic Arts:  http://dramaticarts.usc.edu
 Education USC Rossier School of Education:  http://rossier.usc.edu
 Engineering USC Viterbi School of Engineering:  https://viterbischool.usc.edu
 Gerontology USC Leonard Davis School of Gerontology:  http://gero.usc.edu
+Graduate Admission:  http://gradadm.usc.edu
+Graduate Education:  http://graduateschool.usc.edu
 Law USC Gould School of Law:  http://gould.usc.edu
+Letters, Arts and Sciences USC Dana and David Dornsife College of Letters, Arts and Sciences:  http://dornsife.usc.edu
+LinkedIn:  https://www.linkedin.com/school/3084
+Medical Services and Programs:  http://www.keckmedicine.org/medical-services-and-programs
 Medicine Keck School of Medicine of USC:  http://keck.usc.edu
 Music USC Thornton School of Music:  http://music.usc.edu
 Pharmacy USC School of Pharmacy:  http://pharmacyschool.usc.edu
 Professional Studies USC Bovard College:  http://bovardcollege.usc.edu
 Public Policy USC Sol Price School of Public Policy:  http://priceschool.usc.edu
 Social Work USC Suzanne Dworak-Peck School of Social Work:  https://dworakpeck.usc.edu
-Undergraduate Education:  http://undergrad.usc.edu
-Graduate Education:  http://graduateschool.usc.edu
-USC Online (online graduate programs):  https://online.usc.edu
-Academic Records and Registrar:  http://arr.usc.edu
 Summer Programs for High School Students:  https://precollege.usc.edu
-Medical Services and Programs:  http://www.keckmedicine.org/medical-services-and-programs
+USC Dornsife College – Arts & Humanities:  https://dornsife.usc.edu/arts-humanities
+USC Online (online graduate programs):  https://online.usc.edu
+USC Roski School of Art and Design:  http://roski.usc.edu
 USC School of Architecture:  https://arch.usc.edu
 USC School of Cinematic Arts:  https://cinema.usc.edu
-USC Roski School of Art and Design:  http://roski.usc.edu
 USC Thornton School of Music:  https://music.usc.edu
-USC Dornsife College – Arts & Humanities:  https://dornsife.usc.edu/arts-humanities
-Academic Calendar:  http://academics.usc.edu/calendar
-LinkedIn:  https://www.linkedin.com/school/3084
+Undergraduate Admission:  http://admission.usc.edu
+Undergraduate Education:  http://undergrad.usc.edu
 
 --------------------------------
 
 University: https://www.duke.edu
 52 results: 
-Admissions:  https://admissions.duke.edu
-Visit:  https://admissions.duke.edu/visit
-Apply Now:  https://admissions.duke.edu/apply
-Financial Support:  https://admissions.duke.edu/financial-support
-For Parents:  https://admissions.duke.edu/parents
-For Counselors:  https://admissions.duke.edu/counselors
-Resources & Tools:  https://admissions.duke.edu/resources-tools
-FAQs:  https://admissions.duke.edu/faqs
-Duke Kunshan University:  https://dukekunshan.edu.cn/en/undergraduate-admissions-china
-Graduate School:  https://gradschool.duke.edu
-Programs and Degrees:  https://gradschool.duke.edu/academics/programs-degrees
-Divinity School:  https://divinity.duke.edu/admissions
-Duke Kunshan University:  https://graduate.dukekunshan.edu.cn
-Fuqua School of Business:  https://www.fuqua.duke.edu/programs
-School of Law:  https://law.duke.edu/apply
-School of Medicine:  https://medschool.duke.edu/education/student-services/office-admissions
-School of Nursing:  https://nursing.duke.edu/academic-programs
-Nicholas School of the Environment:  https://nicholas.duke.edu/admissions
-Duke-NUS Medical School:  https://www.duke-nus.edu.sg/admissions
-Pratt School of Engineering:  https://pratt.duke.edu/grad
-Sanford School of Public Policy:  https://sanford.duke.edu
-Apply:  https://financialaid.duke.edu/undergraduate-applicants/apply-aid
-Calculator:  https://npc.collegeboard.org/app/duke
-Academics:  https://duke.edu
-Trinity College of Arts & Sciences:  https://trinity.duke.edu
-Pratt School of Engineering:  https://pratt.duke.edu
-Nicholas School of the Environment:  https://nicholas.duke.edu/academics/undergraduate-programs
-Office of Undergraduate Education:  https://undergrad.duke.edu
-Majors, Minors & Schools:  https://admissions.duke.edu/academic-possibilities
-Academic Life:  https://admissions.duke.edu/academic-life
-Beyond Campus:  https://admissions.duke.edu/beyond-campus
-Divinity School:  https://divinity.duke.edu/academics
-Duke-NUS Medical School:  https://www.duke-nus.edu.sg
-Duke Law School:  https://law.duke.edu/study
-Nicholas School of the Environment:  https://nicholas.duke.edu/academics
-School of Medicine:  https://medschool.duke.edu/education/degree-programs-and-admissions
 Academic Council:  https://academiccouncil.duke.edu
-Research Administration (medicine):  https://medschool.duke.edu/research/research-support-offices/office-research-administration
-Undergraduate Research:  https://undergraduateresearch.duke.edu
-Global Programs:  https://global.duke.edu/programs
-Global Learning:  https://global.duke.edu/academics
-Visiting International Student Program:  https://globaled.duke.edu/vis
+Academic Life:  https://admissions.duke.edu/academic-life
+Academics:  https://duke.edu
+Admissions:  https://admissions.duke.edu
+Apply:  https://financialaid.duke.edu/undergraduate-applicants/apply-aid
+Apply Now:  https://admissions.duke.edu/apply
+Beyond Campus:  https://admissions.duke.edu/beyond-campus
+Calculator:  https://npc.collegeboard.org/app/duke
 Dance:  https://danceprogram.duke.edu
-International and Domestic Programs:  https://globaled.duke.edu
+Divinity School:  https://divinity.duke.edu/admissions
+Divinity School:  https://divinity.duke.edu/academics
 Divinity School:  https://divinity.duke.edu
-Fuqua School of Business:  https://www.fuqua.duke.edu
-Nicholas School of the Environment:  https://nicholas.duke.edu
-School of Law:  https://law.duke.edu
-School of Medicine:  https://medschool.duke.edu
-School of Nursing:  https://nursing.duke.edu
+Duke Kunshan University:  https://dukekunshan.edu.cn/en/undergraduate-admissions-china
+Duke Kunshan University:  https://graduate.dukekunshan.edu.cn
+Duke Law School:  https://law.duke.edu/study
 Duke Student Assistance FundDuke setup a fund to help undergraduate, graduate and professional students deal with unexpected expenses due to COVID-19:  https://studentassistance.duke.edu
+Duke-NUS Medical School:  https://www.duke-nus.edu.sg/admissions
+Duke-NUS Medical School:  https://www.duke-nus.edu.sg
 Durham Accolades:  https://admissions.duke.edu/durham
+FAQs:  https://admissions.duke.edu/faqs
+Financial Support:  https://admissions.duke.edu/financial-support
+For Counselors:  https://admissions.duke.edu/counselors
+For Parents:  https://admissions.duke.edu/parents
+Fuqua School of Business:  https://www.fuqua.duke.edu/programs
+Fuqua School of Business:  https://www.fuqua.duke.edu
+Global Learning:  https://global.duke.edu/academics
+Global Programs:  https://global.duke.edu/programs
+Graduate School:  https://gradschool.duke.edu
+International and Domestic Programs:  https://globaled.duke.edu
+Majors, Minors & Schools:  https://admissions.duke.edu/academic-possibilities
+Nicholas School of the Environment:  https://nicholas.duke.edu/admissions
+Nicholas School of the Environment:  https://nicholas.duke.edu/academics/undergraduate-programs
+Nicholas School of the Environment:  https://nicholas.duke.edu/academics
+Nicholas School of the Environment:  https://nicholas.duke.edu
+Office of Undergraduate Education:  https://undergrad.duke.edu
+Pratt School of Engineering:  https://pratt.duke.edu/grad
+Pratt School of Engineering:  https://pratt.duke.edu
+Programs and Degrees:  https://gradschool.duke.edu/academics/programs-degrees
+Research Administration (medicine):  https://medschool.duke.edu/research/research-support-offices/office-research-administration
+Resources & Tools:  https://admissions.duke.edu/resources-tools
+Sanford School of Public Policy:  https://sanford.duke.edu
+School of Law:  https://law.duke.edu/apply
+School of Law:  https://law.duke.edu
+School of Medicine:  https://medschool.duke.edu/education/student-services/office-admissions
+School of Medicine:  https://medschool.duke.edu/education/degree-programs-and-admissions
+School of Medicine:  https://medschool.duke.edu
+School of Nursing:  https://nursing.duke.edu/academic-programs
+School of Nursing:  https://nursing.duke.edu
+Trinity College of Arts & Sciences:  https://trinity.duke.edu
+Undergraduate Research:  https://undergraduateresearch.duke.edu
+Visit:  https://admissions.duke.edu/visit
+Visiting International Student Program:  https://globaled.duke.edu/vis
 
 --------------------------------
 
 University: https://www.jhu.edu
 26 results: 
-Apply:  https://www.jhu.edu/admissions
-Visit:  https://www.jhu.edu/admissions/visit
-See programs:  https://e-catalogue.jhu.edu/programs
-What majors and minors are offered?:  https://www.jhu.edu/academics/#!/bachelors
-Where can I find information about graduate programs?:  https://www.jhu.edu/academics/graduate-studies
-How much is tuition?:  https://www.jhu.edu/admissions/tuition
-What financial aid packages are available?:  https://www.jhu.edu/admissions/financial-aid
-Academics:  https://www.jhu.edu/academics
-Undergraduate Studies:  https://www.jhu.edu/academics/undergraduate-studies
-Online Studies:  https://www.jhu.edu/academics/online
-Part-Time & Non-Degree Programs:  https://www.jhu.edu/academics/part-time-programs
-Summer Programs:  https://www.jhu.edu/academics/summer-programs
 Academic Calendars:  https://www.jhu.edu/academics/calendars
-Schools & Divisions:  https://www.jhu.edu/schools
-Undergraduate Admissions:  https://apply.jhu.edu
-Graduate Admissions:  https://www.jhu.edu/admissions/graduate-admissions
-Undergraduate Research:  https://www.jhu.edu/research/undergraduate-research
+Academics:  https://www.jhu.edu/academics
+Apply:  https://www.jhu.edu/admissions
 Arts & Sciences:  http://krieger.jhu.edu
 Business:  http://carey.jhu.edu
 Education:  http://education.jhu.edu
 Engineering:  http://engineering.jhu.edu
+Graduate Admissions:  https://www.jhu.edu/admissions/graduate-admissions
+How much is tuition?:  https://www.jhu.edu/admissions/tuition
 International Affairs:  http://www.sais-jhu.edu
 Medicine:  http://www.hopkinsmedicine.org/som
 Music & Dance:  http://www.peabody.jhu.edu
 Nursing:  http://nursing.jhu.edu
+Online Studies:  https://www.jhu.edu/academics/online
+Part-Time & Non-Degree Programs:  https://www.jhu.edu/academics/part-time-programs
 Public Health:  http://www.jhsph.edu
+Schools & Divisions:  https://www.jhu.edu/schools
+See programs:  https://e-catalogue.jhu.edu/programs
+Summer Programs:  https://www.jhu.edu/academics/summer-programs
+Undergraduate Admissions:  https://apply.jhu.edu
+Undergraduate Research:  https://www.jhu.edu/research/undergraduate-research
+Undergraduate Studies:  https://www.jhu.edu/academics/undergraduate-studies
+Visit:  https://www.jhu.edu/admissions/visit
+What financial aid packages are available?:  https://www.jhu.edu/admissions/financial-aid
+What majors and minors are offered?:  https://www.jhu.edu/academics/#!/bachelors
+Where can I find information about graduate programs?:  https://www.jhu.edu/academics/graduate-studies
 
 --------------------------------
 
 University: https://www.upenn.edu
 11 results: 
 Academics:  https://www.upenn.edu/academics
-Undergraduate:  https://www.upenn.edu/academics/undergraduate
-Graduate:  https://www.upenn.edu/academics/graduate
-Schools:  https://www.upenn.edu/academics/schools
-Global Initiatives:  https://www.upenn.edu/academics/global-initiatives
-Interdisciplinary:  https://www.upenn.edu/academics/interdisciplinary
-Online Learning:  https://www.upenn.edu/academics/online-learning
-Off-campus Learning:  https://www.upenn.edu/academics/off-campus-learning
 Admissions & Aid:  https://www.upenn.edu/admissions
 Building off years of success, Penn and Lea School formalize partnership:  https://penntoday.upenn.edu/news/building-years-success-penn-and-lea-school-formalize-partnership
+Global Initiatives:  https://www.upenn.edu/academics/global-initiatives
+Graduate:  https://www.upenn.edu/academics/graduate
+Interdisciplinary:  https://www.upenn.edu/academics/interdisciplinary
 Mid-winter glow vibes on College Green.@uofpenn:  https://www.instagram.com/p/CZKdI0uphdT/
+Off-campus Learning:  https://www.upenn.edu/academics/off-campus-learning
+Online Learning:  https://www.upenn.edu/academics/online-learning
+Schools:  https://www.upenn.edu/academics/schools
+Undergraduate:  https://www.upenn.edu/academics/undergraduate
 
 --------------------------------
 
 University: https://www.northwestern.edu
 19 results: 
 Academic Calendar:  http://planitpurple.northwestern.edu/calendar/academic_calendar
+Academic Programs & Centers:  https://www.northwestern.edu/diversity/resources/academic-programs-and-centers/index.html
 Academics:  https://www.northwestern.edu/academics/index.html
-ExpandAcademics Submenu:  https://www.northwestern.edu#
-Undergraduate Programs:  https://admissions.northwestern.edu/academics/majors-minors/index.html
-Graduate Programs:  https://www.northwestern.edu/academics/graduate-a-to-z.html
+Admissions:  https://www.northwestern.edu/admissions/index.html
+AthleticsNorthwestern sports 19 highly competitive varsity athletic programs. Get the latest Wildcat news from around the Big Ten.Go to Nusports.com:  http://www.nusports.com
+Colleges and Schools:  https://www.northwestern.edu/academics/colleges-and-schools.html
 Continuing and Professional Programs:  https://www.northwestern.edu/academics/professional-studies-a-to-z.html
+ExpandAcademics Submenu:  https://www.northwestern.edu#
+Financial Aid Offices:  https://www.northwestern.edu/admissions/financial-aid-offices.html
+Global Engagement Studies Institute (GESI):  https://www.northwestern.edu/abroad/study-abroad/get-started/program-types/gesi.html
+Global Health Studies Minor:  https://www.globalhealthstudies.northwestern.edu/academic-programs/requirements.html
+Graduate Admissions:  https://www.northwestern.edu/admissions/graduate-admissions.html
+Graduate Programs:  https://www.northwestern.edu/academics/graduate-a-to-z.html
+Northwestern-sponsored study abroad programs:  https://www.northwestern.edu/abroad/study-abroad/explore-programs/index.html
 Online Short Courses:  https://www.northwestern.edu/academics/short-courses.html
 Pre-Collegiate Programs:  https://www.northwestern.edu/academics/pre-collegiate-programs.html
-Colleges and Schools:  https://www.northwestern.edu/academics/colleges-and-schools.html
-Admissions:  https://www.northwestern.edu/admissions/index.html
 Undergraduate Admissions:  https://admissions.northwestern.edu
-Graduate Admissions:  https://www.northwestern.edu/admissions/graduate-admissions.html
-Financial Aid Offices:  https://www.northwestern.edu/admissions/financial-aid-offices.html
-Academic Programs & Centers:  https://www.northwestern.edu/diversity/resources/academic-programs-and-centers/index.html
-Global Health Studies Minor:  https://www.globalhealthstudies.northwestern.edu/academic-programs/requirements.html
-Northwestern-sponsored study abroad programs:  https://www.northwestern.edu/abroad/study-abroad/explore-programs/index.html
-Global Engagement Studies Institute (GESI):  https://www.northwestern.edu/abroad/study-abroad/get-started/program-types/gesi.html
+Undergraduate Programs:  https://admissions.northwestern.edu/academics/majors-minors/index.html
 Undergraduate Research (UR@NU):  https://undergradresearch.northwestern.edu
-AthleticsNorthwestern sports 19 highly competitive varsity athletic programs. Get the latest Wildcat news from around the Big Ten.Go to Nusports.com:  http://www.nusports.com
 
 --------------------------------
 
 University: https://www.rice.edu
-25 results: 
-:  https://www.linkedin.com/edu/school?id=19472
+26 results: 
+#Couldn't find text for this link:  https://www.linkedin.com/edu/school?id=19472
+About the School:  https://glasscock.rice.edu/about-gscs
 Academics Overview:  https://www.rice.edu/academics
+Admission Statistics:  https://oir.rice.edu/rice-glance
+Admission and Aid Overview:  https://www.rice.edu/admission-aid
+Cost and Aid:  https://graduate.rice.edu/costofstudy
+Executive Education:  https://business.rice.edu/rice-business-executive-education?utm_medium=cpc&utm_source=website&utm_campaign=july-web-track-admissions
 George R. Brown School of Engineering:  https://engineering.rice.edu
+Graduate Application:  https://graduate.rice.edu/howtoapply
+Graduate Programs:  https://graduate.rice.edu/programsofstudy
+Graduate Programs of Study:  https://graduate.rice.edu/programs-study
+Graduate Resources:  https://www.rice.edu/graduate-resources
 Jesse H. Jones Graduate School of Business:  https://business.rice.edu/?utm_medium=cpc&utm_source=website&utm_campaign=july-web-track-academics
+Majors, Minors, Departments and Programs:  https://www.rice.edu/departments
+Office of Admission:  https://admission.rice.edu
+Professional and Executive Programs:  https://glasscock.rice.edu/professionals
+Residential Colleges:  https://dou.rice.edu/residential-colleges
 School of Architecture:  https://arch.rice.edu
 School of Humanities:  https://humanities.rice.edu
 School of Social Sciences:  https://socialsciences.rice.edu
 Susanne M. Glasscock School of Continuing Studies:  https://glasscock.rice.edu
 The Shepherd School of Music:  https://music.rice.edu
-Wiess School of Natural Sciences:  https://naturalsciences.rice.edu
-Majors, Minors, Departments and Programs:  https://www.rice.edu/departments
-Admission and Aid Overview:  https://www.rice.edu/admission-aid
-Office of Admission:  https://admission.rice.edu
-Visit:  https://admission.rice.edu/visit
 Undergraduate Application:  https://admission.rice.edu/apply
 Undergraduate Resources:  https://www.rice.edu/undergraduate-resources
-Graduate Programs of Study:  https://graduate.rice.edu/programsofstudy
-Graduate Application:  https://graduate.rice.edu/howtoapply
-Cost and Aid:  https://graduate.rice.edu/costofstudy
-Graduate Resources:  https://www.rice.edu/graduate-resources
-Professional and Executive Programs:  https://glasscock.rice.edu/professionals
-About the School:  https://glasscock.rice.edu/about-gscs
-Executive Education:  https://business.rice.edu/rice-business-executive-education?utm_medium=cpc&utm_source=website&utm_campaign=july-web-track-admissions
-Admission Statistics:  https://oir.rice.edu/rice-glance
-Residential Colleges:  https://dou.rice.edu/residential-colleges
+Visit:  https://admission.rice.edu/visit
+Wiess School of Natural Sciences:  https://naturalsciences.rice.edu
 
 --------------------------------
 
 University: https://www.ucla.edu
 27 results: 
-Admission:  https://www.ucla.edu/admission
-Undergraduate Admission:  https://www.ucla.edu/admission/undergraduate-admission
-Undergraduate Tuition & Fees:  https://admission.ucla.edu/tuition-aid/tuition-fees
-Undergraduate Financial Aid:  https://admission.ucla.edu/tuition-aid/financial-aid-and-scholarships
-Undergraduate Tours:  http://www.admission.ucla.edu/tours.htm
-Graduate Admission:  https://www.ucla.edu/admission/graduate-admission
-Graduate Tuition & Fees:  https://grad.ucla.edu/funding/tuition
-Graduate Funding:  https://grad.ucla.edu
-Graduate Tours:  https://grad.ucla.edu/admissions/visiting-ucla
-International Applicants:  https://www.ucla.edu/admission/international-applicants
-Extension Program:  https://www.uclaextension.edu/student-services/enrollment-services-support
-Academics:  https://www.ucla.edu/academics
-Degree Programs & Majors:  https://www.ucla.edu/academics/programs-and-majors
-College & Professional Schools:  https://www.ucla.edu/academics/college-and-schools
-Undergraduate Education:  https://www.ucla.edu/academics/undergraduate-education
-Graduate & Professional Education:  https://www.ucla.edu/academics/graduate-and-professional-education
-Continuing Education:  https://www.ucla.edu/academics/continuing-education
 Academic Advising:  https://www.registrar.ucla.edu/Academics/Academic-Counseling
-New Student Programs:  http://newstudents.ucla.edu
-Libraries:  https://www.ucla.edu/academics/libraries
 Academic Calendar:  https://registrar.ucla.edu/calendars/academic-calendar
-Graduate Research:  https://grad.ucla.edu/academics/research
-Undergraduate Research:  https://admission.ucla.edu/explore/research
 Academic Calendar:  https://www.registrar.ucla.edu/Calendars/Annual-Academic-Calendar
-Tuesday, February 8, 2022												Sharpe Fellows Mentorship Program – Business Landscape Workshop:  https://community.ucla.edu/event/9e2d4784-f5b0-611e-75cd-9a574f5ec276
-“Make each day your masterpiece.” - John Wooden #WednesdayWisdom@ucla2 weeks ago:  https://www.instagram.com/p/CY69qmDBI1g
+Academics:  https://www.ucla.edu/academics
+Admission:  https://www.ucla.edu/admission
+College & Professional Schools:  https://www.ucla.edu/academics/college-and-schools
+Continuing Education:  https://www.ucla.edu/academics/continuing-education
+Degree Programs & Majors:  https://www.ucla.edu/academics/programs-and-majors
+Extension Program:  https://www.uclaextension.edu/student-services/enrollment-services-support
+Graduate & Professional Education:  https://www.ucla.edu/academics/graduate-and-professional-education
+Graduate Admission:  https://www.ucla.edu/admission/graduate-admission
+Graduate Funding:  https://grad.ucla.edu
+Graduate Research:  https://grad.ucla.edu/academics/research
+Graduate Tours:  https://grad.ucla.edu/admissions/visiting-ucla
+Graduate Tuition & Fees:  https://grad.ucla.edu/funding/tuition
+International Applicants:  https://www.ucla.edu/admission/international-applicants
+Libraries:  https://www.ucla.edu/academics/libraries
 Linked:  https://www.linkedin.com/school/ucla
+New Student Programs:  http://newstudents.ucla.edu
+Tuesday, February 8, 2022												Sharpe Fellows Mentorship Program – Business Landscape Workshop:  https://community.ucla.edu/event/9e2d4784-f5b0-611e-75cd-9a574f5ec276
+Undergraduate Admission:  https://www.ucla.edu/admission/undergraduate-admission
+Undergraduate Education:  https://www.ucla.edu/academics/undergraduate-education
+Undergraduate Financial Aid:  https://admission.ucla.edu/tuition-aid/financial-aid-and-scholarships
+Undergraduate Research:  https://admission.ucla.edu/explore/research
+Undergraduate Tours:  http://www.admission.ucla.edu/tours.htm
+Undergraduate Tuition & Fees:  https://admission.ucla.edu/tuition-aid/tuition-fees
+“Make each day your masterpiece.” - John Wooden #WednesdayWisdom@ucla2 weeks ago:  https://www.instagram.com/p/CY69qmDBI1g
+
+--------------------------------
+
+University: https://www.princeton.edu
+29 results: 
+#Couldn't find text for this link:  https://www.princeton.edu/news/2022/01/25/princeton-will-significantly-increase-stipends-support-graduate-students
+About Financial Aid:  https://admission.princeton.edu/cost-aid
+Academic Calendar:  https://registrar.princeton.edu/academic-calendar
+Academics:  https://www.princeton.edu/academics
+Admission & Aid:  https://www.princeton.edu/admission-aid
+Advising:  https://www.princeton.edu/academics/advising
+Affordable for All:  https://www.princeton.edu/admission-aid/affordable-all
+Areas of Study:  https://www.princeton.edu/academics/areas-of-study
+Career Development:  https://www.princeton.edu/academics/career-development
+Continuing Education:  https://www.princeton.edu/academics/continuing-education
+Course Tools:  https://www.princeton.edu/academics/course-tools
+Current Undergraduate Financial Aid:  https://finaid.princeton.edu
+Engineering:  https://www.princeton.edu/academics/areas-of-study/engineering
+Environmental research at Princeton is addressing the world's challenges.                        Research groups across the University are making pivotal contributions across the spectrum of environmental issues. The Princeton Environmental Research portal tracks the full scope of activity arising out of more than a dozen different academic units, from physical, biological and applied sciences to art, architecture, psychology, policy and more.              Read more:  https://www.princeton.edu/news/2020/10/15/addressing-humanitys-environmental-challenges
+Faculty and Academic Positions:  http://dof.princeton.edu/academicjobs
+For International Students:  https://www.princeton.edu/admission-aid/international-students
+Graduate Admission:  https://www.princeton.edu/admission-aid/graduate-admission
+Humanities:  https://www.princeton.edu/academics/areas-of-study/humanities
+Innovative Learning:  https://www.princeton.edu/academics/innovative-learning
+Learning Abroad:  https://www.princeton.edu/academics/learning-abroad
+Library:  https://www.princeton.edu/academics/library
+LinkedIn:  https://www.linkedin.com/school/157313
+More Academics  Stories:  https://www.princeton.edu/news?category=1876#filters
+Natural Sciences:  https://www.princeton.edu/academics/areas-of-study/natural-sciences
+Princeton provides annual update on diversity, equity and inclusion efforts.                        As part of the University-wide effort to combat systemic racism, Princeton has published its first annual report highlighting diversity, equity and inclusion work across campus. The report provides a snapshot of projects, programs and initiatives during the 2020-21 academic year, and also includes demographic and climate data about students, staff, faculty and postdoctoral scholars.              Read more:  https://www.princeton.edu/news/2021/10/13/princeton-provides-annual-update-diversity-equity-and-inclusion-efforts
+Social Sciences:  https://www.princeton.edu/academics/areas-of-study/social-sciences
+Studying at Princeton:  https://www.princeton.edu/academics/studying-princeton
+Undergraduate Admission:  https://admission.princeton.edu
+Undergraduate Admission:  http://admission.princeton.edu
+
+--------------------------------
+
+University: https://www.harvard.edu
+27 results: 
+Black Women Oral History Project:  https://www.radcliffe.harvard.edu/schlesinger-library/collections/black-women-oral-history-project
+Dumbarton Oaks Research Library:  https://www.doaks.org/research/library-archives
+EducationBrown v. Board of Education was a landmark decision in which the U.S. Supreme Court ruled that racial segregation in public schools was unconstitutional.			Learn about Brown v. Board of Education:  https://www.youtube.com/watch?v=FwxprgouAYU
+Explore all programs:  https://www.harvard.edu/programs
+Explore more:  https://www.harvard.edu/schools
+February 17 and 186th Annual Black Religion, Spirituality, and Culture Conference	February 17 and 18This year’s conference, themed "Rooted," will center Black, African, and Indigenous ways of knowing around wellness and mental health.:  https://hds.harvard.edu/news/public-events-calendar?trumbaEmbed=view%3Devent%26eventid%3D157570818
+Find more events during Black History Month:  https://calendar.college.harvard.edu/edib#tabs-37876625096147-38952534452928
+Graduate School of Design Exhibitions:  http://www.gsd.harvard.edu/exhibitions
+Harvard Business School:  http://www.hbs.edu
+Harvard College:  https://college.harvard.edu
+Harvard Divinity School:  https://hds.harvard.edu
+Harvard Divinity School Library:  https://library.hds.harvard.edu
+Harvard Graduate School of Arts and Sciences:  https://gsas.harvard.edu
+Harvard Graduate School of Design:  https://www.gsd.harvard.edu
+Harvard Graduate School of Education:  https://www.gse.harvard.edu
+Harvard John A. Paulson School of Engineering and Applied Sciences:  https://www.seas.harvard.edu
+Harvard Kennedy School:  https://www.hks.harvard.edu
+Harvard Law School:  https://hls.harvard.edu
+Harvard Law School Library:  https://hls.harvard.edu/library
+Harvard Medical School:  https://hms.harvard.edu
+Harvard School of Dental Medicine:  https://hsdm.harvard.edu
+Harvard T.H. Chan School of Public Health:  https://www.hsph.harvard.edu
+More about academics at Harvard:  https://www.harvard.edu/academics
+Ongoing	Open call for those advancing justice and equalityDr. Martin Luther King Jr. Commemorative Lecture	Ongoing	Open call for those advancing justice and equalityIn honor of the 60th anniversary of Martin Luther King Jr.'s speech at Harvard Law School, President Larry Bacow announced the annual Dr. Martin Luther King Jr. Commemorative Lecture at Harvard.:  https://edib.harvard.edu/mlk-lecture
+Professional and lifelong learning:  https://www.harvard.edu/academics/professional-and-lifelong-learning
+Robert Tanner Freeman:  https://hsdm.harvard.edu/news/portrait-dr-robert-freeman-honors-hsdm%E2%80%99s-first-african-american-graduate
+The Little Black Library at Harvard Business School:  https://www.hbs.edu/news/articles/Pages/little-black-library.aspx
+
+--------------------------------
+
+University: https://www.mit.edu
+2 results: 
+Admissions + Aid:  https://www.mit.edu/admissions-aid
+Landfills are a major source of methane, a potent greenhouse gas. Loci Controls, founded by MIT alumni, has developed a solar-powered system that helps landfill operators capture methane so it can be converted into fuel.:  http://news.mit.edu/2022/loci-methane-emissions-landfills-0202
+
+--------------------------------
+
+University: https://www.yale.edu
+19 results: 
+Academics:  https://www.yale.edu/academics
+Admissions:  https://www.yale.edu/admissions
+COVID-19 testing program for Afghan evacuees launches in New HavenCommunity Outreach:  https://ysph.yale.edu/news-article/new-covid-19-testing-program-for-afghan-evacuees-launches-in-new-haven
+Departments & Programs:  https://www.yale.edu/academics/departments-programs
+Explore the college:  https://saybrook.yalecollege.yale.edu
+Explore the school:  https://divinity.yale.edu
+Financial Aid:  https://www.yale.edu/admissions/financial-aid
+Global Education:  https://world.yale.edu/academics-research
+Graduate & Professional Schools:  https://www.yale.edu/admissions/graduate-professional-schools
+Graduate & Professional Study:  https://www.yale.edu/academics/graduate-professional-study
+International Students:  https://world.yale.edu/admissions
+Non-Degree Offerings:  https://www.yale.edu/academics/non-degree-offerings
+Non-Degree Seeking Students:  https://www.yale.edu/admissions/non-degree-seeking-students
+Timothy Dwight CollegeExplore the college:  https://timothydwight.yalecollege.yale.edu
+Undergraduate:  https://admissions.yale.edu
+Undergraduate Study:  https://www.yale.edu/academics/undergraduate-study
+World Fellows Program:  https://worldfellows.yale.edu/the-program/application
+Yale University:  https://www.yale.edu/
+Yale University:  https://www.yale.edu/index.html
+
+--------------------------------
+
+University: https://www.stanford.edu
+12 results: 
+#Couldn't find text for this link:  https://news.stanford.edu/2019/08/15/back-to-school
+Academics:  https://www.stanford.edu/academics
+Admission:  https://www.stanford.edu/admission
+Departments A - to  Z:  https://www.stanford.edu/list/academic
+Graduate:  https://gradadmissions.stanford.edu
+Graduate Education:  https://vpge.stanford.edu
+Interdisciplinary Programs:  https://www.stanford.edu/list/interdisc
+More about Alma:  https://news.stanford.edu/2019/06/03/examining-bilingual-behavior-children-texas-preschool
+Non-Discrimination:  https://exploredegrees.stanford.edu/nonacademicregulations/nondiscrimination
+Programs for Lifelong Learning:  https://www.stanford.edu/list/continuing
+Undergraduate:  https://admission.stanford.edu
+Undergraduate Education:  https://undergrad.stanford.edu
+
+--------------------------------
+
+University: https://www.uchicago.edu
+2 results: 
+#Couldn't find text for this link:  https://www.linkedin.com/school/uchicago
+Learn How to Apply:  https://www.uchicago.edu/admissions
+
+--------------------------------
+
+University: https://www.caltech.edu
+15 results: 
+#Couldn't find text for this link:  https://www.caltech.edu/about/news/new-graduate-track-to-combine-study-of-medical-and-electrical-engineering
+Academic Calendar:  https://www.caltech.edu/academics/resources/academic-calendar
+Academic Divisions:  https://www.caltech.edu#academic-divisions-9536e725
+Academics:  https://www.caltech.edu/academics
+Admissions & Aid:  https://www.caltech.edu/admissions-aid
+Apply:  http://www.admissions.caltech.edu
+Apply:  http://www.gradoffice.caltech.edu/admissions
+Cost & Aid:  https://www.admissions.caltech.edu/afford
+Graduate Studies:  http://www.gradoffice.caltech.edu
+Open Academic Divisions Submenu:  https://www.caltech.edu/None
+Public Programming / CaltechLive!:  http://events.caltech.edu
+Undergraduate Studies:  https://www.deans.caltech.edu
+University and College Rankings:  https://www.caltech.edu/about/university-and-college-rankings
+VIEW ALL UPCOMING EVENTS:  https://www.caltech.edu/campus-life-events/master-calendar
+edXthe edX logo is comprised of a red letter e, grey d, and blue uppercase X, all slightly overlapping each other.  The d is slightly transparent.edX:  https://www.edx.org/school/caltechx
+
+--------------------------------
+
+University: https://home.dartmouth.edu
+18 results: 
+@dartmouthcollege:  https://www.instagram.com/dartmouthcollege
+APPLY:  https://admissions.dartmouth.edu
+Academics:  https://home.dartmouth.edu/academics
+Admissions:  https://home.dartmouth.edu/admissions
+Centers & Institutes:  https://home.dartmouth.edu/academics/centers-institutes
+Comparative LiteratureImage:  https://complit.dartmouth.edu
+Courses and Calendars:  https://home.dartmouth.edu/academics/courses-calendars
+Departments and Programs:  https://home.dartmouth.edu/academics/departments-programs
+Engineering:  https://engineering.dartmouth.edu/undergraduate
+Geisel School of Medicine:  https://geiselmed.dartmouth.edu
+Guarini School of Graduate & Advanced Studies:  https://graduate.dartmouth.edu
+ImageThumbnail:  https://home.dartmouth.edu/news/2022/02/dartmouths-winter-olympians
+Majors and Minors:  https://home.dartmouth.edu/academics/undergraduate-arts-sciences/majors-and-minors
+Research, Scholarship & Creativity:  https://home.dartmouth.edu/academics/research
+Thayer School of Engineering:  https://engineering.dartmouth.edu
+The Student Experience:  https://home.dartmouth.edu/admissions/student-experience
+Tuck School of Business:  https://www.tuck.dartmouth.edu
+Undergraduate Arts & Sciences:  https://home.dartmouth.edu/academics/undergraduate-arts-sciences
+
+--------------------------------
+
+University: https://www.brown.edu
+34 results: 
+#Couldn't find text for this link:  https://www.brown.edu/news/2022-01-26/test-optional
+#Couldn't find text for this link:  https://www.brown.edu/academics/public-health
+#Couldn't find text for this link:  https://www.brown.edu/academics/undergraduate/open-curriculum
+#Couldn't find text for this link:  https://www.brown.edu/admission/tuition-aid-0
+#Couldn't find text for this link:  https://www.brown.edu/graduateprograms/ie-brown-executive-mba-executive-master
+#Couldn't find text for this link:  https://www.brown.edu/graduateprograms/executive-master-healthcare-leadership
+#Couldn't find text for this link:  https://www.brown.edu/graduateprograms/executive-master-science-and-technology-leadership
+#Couldn't find text for this link:  https://www.brown.edu/graduateprograms/executive-master-cybersecurity
+#Couldn't find text for this link:  https://www.brown.edu/about/administration/registrar/academic-calendar
+#Couldn't find text for this link:  https://www.brown.edu/about/administration/registrar/home
+Academic Departments:  https://www.brown.edu/academics/departments
+Academics:  https://www.brown.edu/academics
+Admission & Aid:  https://www.brown.edu/admission
+Browse Graduate Programs:  https://www.brown.edu/graduate_programs
+Browse Undergraduate Programs:  https://www.brown.edu/undergraduate_concentrations
+Centers & Institutes:  https://www.brown.edu/academics/centers-institutes
+Executive & Professional Admission:  https://professional.brown.edu/admissions
+Forced to flee Kabul last August, 15 young Afghan women find an academic home at Brown:  https://www.brown.edu/news/2022-01-27/afghanstudents
+Global Education:  https://www.brown.edu/academics/global
+Graduate & Professional:  https://www.brown.edu/academics/graduate
+Graduate Admission:  https://www.brown.edu/admission/graduate
+Graduate School:  https://www.brown.edu/academics/gradschool
+Libraries & Collections:  https://www.brown.edu/academics/libraries
+LinkedIn:  https://www.linkedin.com/edu/school?id=19348
+Medical School Admission:  https://admission.med.brown.edu
+Non-Degree Programs:  https://www.brown.edu/academics/non-degree
+School of Engineering:  https://www.brown.edu/academics/engineering
+School of Professional Studies:  https://professional.brown.edu/?utm_source=BrownHomepage&utm_medium=BrownHomepage&utm_campaign=BrownHomepage
+Schools & Colleges:  https://www.brown.edu/academics/schools-colleges
+Tuition & Aid:  https://www.brown.edu/admission/tuition-aid
+Undergraduate:  https://www.brown.edu/academics/undergraduate
+Undergraduate Admission:  http://admission.brown.edu
+Warren Alpert Medical School:  https://www.brown.edu/academics/medical
+Warren Alpert Medical School:  http://medical.brown.edu
+
+--------------------------------
+
+University: https://www.vanderbilt.edu
+23 results: 
+Academics:  https://www.vanderbilt.edu/academics
+Admissions:  https://www.vanderbilt.edu/admissions
+Alumni Programs and Resources:  https://www.vanderbilt.edu/alumni
+Financial Aid:  https://www.vanderbilt.edu/admissions/financial-aid
+Financial Aid:  https://www.vanderbilt.edu/financialaid/graduate
+Find Your Major:  https://www.vanderbilt.edu/academics/program-finder/?degrees=bachelors
+Find Your Program:  https://www.vanderbilt.edu/academics/program-finder/?degrees=masters%2Cdoctoral%2Ccertificate%2Conline
+Graduate & Professional School Admissions:  https://www.vanderbilt.edu/admissions/graduate-professional-school-admissions
+Graduate School Research:  https://gradschool.vanderbilt.edu/research
+Graduate and Professional Housing:  https://news.vanderbilt.edu/2021/04/28/construction-to-begin-on-vanderbilt-graduate-and-professional-housing-development
+Happy you're hereWeâre ranked #2 on Princeton Reviewâs list of happiest college students.                  Weâre ranked #2 on Princeton Reviewâs list of happiest college students.:  https://www.vanderbilt.edu/student-life
+LinkedIn:  https://www.linkedin.com/school/vanderbilt-university
+Orientation and Transition Programs:  https://www.vanderbilt.edu/hub/category/orientation-and-transition-programs
+Parents and Family Program:  https://www.vanderbilt.edu/families
+Plan a Visit:  https://admissions.vanderbilt.edu/visit
+Program Finder:  https://www.vanderbilt.edu/academics/program-finder
+Residential Colleges:  https://www.vanderbilt.edu/academics/residential-colleges
+Schools & Colleges:  https://www.vanderbilt.edu/academics/#schools-colleges
+Study Abroad:  https://www.vanderbilt.edu/academics/#global-edu
+Undergraduate Admissions:  https://admissions.vanderbilt.edu
+Undergraduate Education Resources:  https://www.vanderbilt.edu/hub/category/undergraduate-education
+Undergraduate Research:  https://www.vanderbilt.edu/undergraduate-research
+graduate and professional degrees:  https://www.vanderbilt.edu/academics/program-finder/?degrees=masters%2Cdoctoral%2Conline
+
+--------------------------------
+
+University: https://wustl.edu
+26 results: 
+159 Named to UAA All-Academic Fall Team:  https://bearsports.wustl.edu/general/2021-22/releases/20211207n38zk8
+About 40% of WashU students study abroad:  https://global.wustl.edu/programs
+Academic Departments and Programs:  https://wustl.edu/academics/academic-departments-programs
+Academic Policies:  https://wustl.edu/about/compliance-policies/academic-policies
+Academics:  https://wustl.edu/academics
+Accreditation:  https://wustl.edu/academics/accreditation
+Apply:  https://wustl.edu/admissions
+Brown School:  https://brownschool.wustl.edu/Pages/default.aspx
+Centers and Institutes:  https://wustl.edu/academics/centers-institutes
+Graduate and Professional School Policies:  https://wustl.edu/about/compliance-policies/graduate-professional-school-policies
+Graduate, Professional and Advanced Learning:  https://wustl.edu/academics/graduate-professional-advanced-learning
+Interdisciplinary Programs:  https://wustl.edu/academics/interdisciplinary-programs
+McKelvey School of Engineering:  http://engineering.wustl.edu/Pages/home.aspx
+Olin Business School:  http://www.olin.wustl.edu
+Olin Business School:  https://olin.wustl.edu/EN-US/Pages/default.aspx
+Programs:  https://alumni.wustl.edu/connect/parents-families
+Research by School:  https://wustl.edu/research/schools
+Sam Fox School of Design & Visual Arts:  http://samfoxschool.wustl.edu
+School of Law:  http://law.wustl.edu
+School of Medicine:  https://medicine.wustl.edu
+School of Medicine:  http://medicine.wustl.edu
+Summer Learning:  https://wustl.edu/academics/summer
+Undergraduate Admissions:  https://admissions.wustl.edu
+Undergraduate Majors:  https://admissions.wustl.edu/academics
+Undergraduate Research:  http://undergradresearch.wustl.edu
+University College Programs:  http://ucollege.wustl.edu/programs/all
+
+--------------------------------
+
+University: https://www.nd.edu
+5 results: 
+Academic Calendar:  https://registrar.nd.edu/calendar
+Academics:  https://www.nd.edu/academics
+Admissions:  https://www.nd.edu/admissions
+LinkedIn:  https://www.linkedin.com/school/university-of-notre-dame
+Read story:  https://www.nd.edu/stories/pathogen-trackers
+
+--------------------------------
+
+University: https://www.emory.edu/home/index.html
+34 results: 
+#Couldn't find text for this link:  https://www.emory.edu/home/index.html/index.html
+#Couldn't find text for this link:  https://www.linkedin.com/school/emory-university
+Academic Excellence:  https://www.emory.edu/home/index.html/explore/emory-profile/academic-excellence.html
+Academics:  https://www.emory.edu/home/index.html/academics/index.html
+Accreditations & Memberships:  https://www.emory.edu/home/index.html/academics/faculty-teaching/accreditations-memberships.html
+Admission:  https://www.emory.edu/home/index.html/admission/index.html
+Applied Learning:  https://www.emory.edu/home/index.html/academics/applied-learning.html
+Awards & Honors:  https://www.emory.edu/home/index.html/academics/faculty-teaching/awards-honors.html
+Business School:  https://goizueta.emory.edu/undergraduate-business-degree
+Business School:  http://goizueta.emory.edu
+Degrees & Programs:  https://www.emory.edu/home/index.html/academics/degrees-programs.html
+Emory College:  http://www.college.emory.edu
+ExploreGrounded in academic excellence, we lead with the greater purpose of serving humanity. Get to know our culture, our story, and what we're most proud of.:  https://www.emory.edu/home/index.html/explore/index.html
+Faculty & Teaching:  https://www.emory.edu/home/index.html/academics/faculty-teaching/index.html
+Financial Aid:  https://www.emory.edu/home/index.html/admission/financial-aid.html
+GlobalThrough international programs, curriculum, and research, Emory initiatives and partnerships  position the university as a leader on the global stage.:  https://global.emory.edu
+Graduate & Professional:  https://www.emory.edu/home/index.html/admission/graduate-professional.html
+Graduate School:  http://www.gs.emory.edu
+International Students:  https://www.emory.edu/home/index.html/admission/international.html
+Libraries & Resources:  https://www.emory.edu/home/index.html/academics/libraries.html
+Local schools receive thousands of face masks following mask donation to Emory Healthcare:  https://news.emory.edu/stories/2022/02/hs_vogmask_donation_to_ehc_local_schools_01-02-2022/story.html
+Maps:  https://www.emory.edu/home/index.html/admission/visit/maps.html
+Named Professorships:  https://www.emory.edu/home/index.html/academics/faculty-teaching/named-professorships.html
+Nondegree Programs:  https://www.emory.edu/home/index.html/admission/non-degree.html
+Oxford College:  https://oxford.emory.edu
+Pre-College Program:  http://precollege.emory.edu
+School of Law:  http://www.law.emory.edu
+School of Medicine:  http://www.med.emory.edu
+School of Nursing:  http://www.nursing.emory.edu
+School of Public Health:  http://www.sph.emory.edu
+School of Theology:  http://www.candler.emory.edu
+Tuition & Cost:  https://www.emory.edu/home/index.html/admission/tuition.html
+Undergraduate:  https://www.emory.edu/home/index.html/admission/undergraduate.html
+Visit:  https://www.emory.edu/home/index.html/admission/visit/index.html
+
+--------------------------------
+
+University: https://www.berkeley.edu
+13 results: 
+Academic calendar:  http://guide.berkeley.edu/academic-calendar
+Admissions:  https://www.berkeley.edu#
+Advising & tutoring:  https://www.berkeley.edu/academics/advising-tutoring
+College money for public service? UC Berkeley students soon can apply:  https://news.berkeley.edu/2022/01/21/college-money-for-public-service-uc-berkeley-students-soon-can-apply
+Departments & programs:  https://www.berkeley.edu/atoz/dept
+Graduate:  http://grad.berkeley.edu
+Institute for Governmental Studies Library wins state funding for digital database:  https://mailchi.mp/berkeley.edu/major-state-funding-for-igs-library?e=%5BUNIQID%5D#new_tab
+Overview:  https://www.berkeley.edu/admissions
+Overview:  https://www.berkeley.edu/academics
+Research programs:  http://vcresearch.berkeley.edu/research-units
+Schools & colleges:  https://www.berkeley.edu/academics/schools-colleges
+Undergraduate:  http://admissions.berkeley.edu
+Undergraduate research:  http://research.berkeley.edu
+
+--------------------------------
+
+University: https://www.georgetown.edu
+13 results: 
+Academic Calendar:  https://registrar.georgetown.edu/academic-calendar
+Academic Life:  https://www.georgetown.edu/academics
+Admissions & Aid:  https://www.georgetown.edu/admissions
+Areas of Study:  https://www.georgetown.edu/academics/areas-of-study
+Centers and Programs:  https://www.georgetown.edu/research/centers
+Commitment to Access:  https://www.georgetown.edu/admissions/commitment-to-access
+Events:  https://guevents.georgetown.edu
+Graduate Admissions:  https://www.georgetown.edu/admissions/graduate-admissions
+LinkedInLinkedIn:  https://www.linkedin.com/school/georgetown-university
+Our Schools:  https://www.georgetown.edu/academics/our-schools
+Restless Inquiry:  https://www.georgetown.edu/academics/restless-inquiry
+Study Abroad:  https://www.georgetown.edu/academics/study-abroad
+Undergraduate Admissions                                          External Link:  https://uadmissions.georgetown.edu
+
+--------------------------------
+
+University: https://www.virginia.edu
+13 results: 
+#Couldn't find text for this link:  https://news.virginia.edu/content/uva-ranked-no-5-public-school-return-investment-low-income-students?utm_source=VirginiaHome&utm_medium=referral&utm_campaign=news
+Academic Calendar:  http://www.virginia.edu/registrar/calendar.html
+Academics:  https://www.virginia.edu/academics
+Admission:  https://www.virginia.edu/life
+Continuing & Executive Education:  https://www.virginia.edu/academics/continuinged
+Graduate Studies:  https://www.virginia.edu/academics/graduate
+International Studies:  https://www.virginia.edu/academics/international
+J-Term & Summer Session:  https://www.virginia.edu/academics/summerwinter
+Libraries:  https://www.virginia.edu/academics/libraries
+Schools:  https://www.virginia.edu/schools
+Undergraduate Admission:  https://admission.virginia.edu
+Undergraduate Majors:  https://www.virginia.edu/academics/majors
+Undergraduate Studies:  https://www.virginia.edu/academics/undergraduate
+
+--------------------------------
+
+University: https://www.nyu.edu
+31 results: 
+Academic Programs:  https://www.nyu.edu/content/nyu/en/academics/academic-programs.html
+Academic Services:  https://www.nyu.edu/content/nyu/en/students/academic-services.html
+Academics:  https://www.nyu.edu/content/nyu/en/academics.html
+Accelerated Studies:  https://www.nyu.edu/content/nyu/en/academics/accelerated-studies.html
+Accreditation, Authorization & Assessment:  https://www.nyu.edu/content/nyu/en/academics/accreditation-authorization-assessment.html
+Admissions:  https://www.nyu.edu/content/nyu/en/admissions.html
+Application Deadlines are Approaching:  https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply.html
+Awards and Highlights:  https://www.nyu.edu/content/nyu/en/academics/awards-and-highlights.html
+Centers and Institutes:  https://www.nyu.edu/content/nyu/en/academics/centers-and-institutes.html
+Continuing Education:  https://www.nyu.edu/content/nyu/en/academics/continuing-education.html
+Events | Programs:  https://www.nyu.edu/content/nyu/en/alumni/events-programs.html
+Faculty Awards and Accomplishments:  https://www.nyu.edu/content/nyu/en/academics/awards-and-highlights/faculty-awards-and-accomplishments.html
+Fall:  https://www.nyu.edu/content/nyu/en/admissions/fall-in-ny.html
+Financial Aid and Scholarships:  https://www.nyu.edu/content/nyu/en/admissions/financial-aid-and-scholarships.html
+Global Academic Partnerships and Affiliations:  https://www.nyu.edu/content/nyu/en/faculty/global-academic-partnerships-and-affiliations.html
+Global Awards:  https://www.nyu.edu/content/nyu/en/academics/awards-and-highlights/global-awards.html
+Graduate Admissions:  https://www.nyu.edu/content/nyu/en/admissions/graduate-admissions.html
+High School Programs:  https://www.nyu.edu/content/nyu/en/admissions/high-school-programs.html
+January:  https://www.nyu.edu/content/nyu/en/admissions/january-term.html
+Libraries:  https://www.nyu.edu/content/nyu/en/academics/libraries.html
+LinkedIn:  https://www.linkedin.com/school/new-york-university
+NYU Online:  https://www.nyu.edu/content/nyu/en/academics/nyu-online.html
+NYU Tisch School of the Arts Receives Major Gift to Establish the Martin Scorsese Institute of Global Cinematic Arts:  https://www.nyu.edu/content/nyu/en/about/news-publications/news/2021/december/nyu-tisch-school-of-the-arts-receives-major-gift-to-establish-th.html
+ResearchBeing at the forefront of their disciplines, our faculty shape the understanding of an enormous range of academic fields.:  https://www.nyu.edu/content/nyu/en/research.html
+Scholarly Strengths:  https://www.nyu.edu/content/nyu/en/academics/scholarly-strengths.html
+Schools and Colleges:  https://www.nyu.edu/content/nyu/en/academics/schools-and-colleges.html
+Spring:  https://www.nyu.edu/content/nyu/en/admissions/spring-in-ny.html
+Studying Abroad:  https://www.nyu.edu/content/nyu/en/academics/studying-abroad.html
+Summer:  https://www.nyu.edu/content/nyu/en/admissions/summer-sessions.html
+Undergraduate Admissions:  https://www.nyu.edu/content/nyu/en/admissions/undergraduate-admissions.html
+Visiting Students:  https://www.nyu.edu/content/nyu/en/admissions/visiting-students.html
+
+--------------------------------
+
+University: https://www.tufts.edu
+31 results: 
+Academic Calendars:  http://events.tufts.edu/academic_calendars
+Academics:  https://www.tufts.edu/academics
+Admissions:  https://www.tufts.edu/admissions
+Apply:  https://www.tufts.edu/academics/apply
+Courses at Tufts:  https://universitycollege.tufts.edu/courses
+Cummings School of Veterinary Medicine:  http://vet.tufts.edu
+Friedman School of Nutrition Science and Policy:  http://nutrition.tufts.edu
+Ginn Library (The Fletcher School):  http://www.library.tufts.edu/ginn
+Global Health Seminar Series 2022: Meals as medicines: Addressing undernutrition to end the global tuberculosis epidemic:  https://www.trumba.com/calendars/tufts-feeds?eventid=157554552
+Graduate & Professional Programs:  https://www.tufts.edu/graduate-programs
+Graduate Admissions:  https://www.tufts.edu/admissions/graduate
+Graduate School of Arts and Sciences:  http://asegrad.tufts.edu
+Graduate School of Biomedical Sciences:  https://gsbs.tufts.edu
+Jonathan M. Tisch College of Civic Life:  https://tischcollege.tufts.edu
+Jonathan M. Tisch College of Civic Life:  http://tischcollege.tufts.edu
+Leading While Black: A Legacy of Transformational Black Leadership at Tufts University:  https://www.trumba.com/calendars/tufts-feeds?eventid=157610332
+Path to Carbon Neutrality Webinar Series: Energy Efficiency and the Central Energy Plant:  https://www.trumba.com/calendars/tufts-feeds?eventid=157467270
+Pre-College Admissions:  https://universitycollege.tufts.edu/high-school
+School of Arts and Sciences:  http://as.tufts.edu
+School of Dental Medicine:  http://dental.tufts.edu
+School of Engineering:  http://engineering.tufts.edu
+School of Medicine:  http://medicine.tufts.edu/
+School of Medicine:  http://medicine.tufts.edu
+School of the Museum of Fine Arts:  http://smfa.tufts.edu
+School of the Museum of Fine Arts at Tufts University:  http://www.smfa.edu
+Schools:  https://www.tufts.edu/schools
+The Fletcher School:  http://fletcher.tufts.edu
+Tisch College Announces Events for Spring 2022:  https://now.tufts.edu/articles/tisch-college-announces-events-spring-2022
+Undergraduate Admissions:  http://admissions.tufts.edu
+Undergraduate Programs:  https://admissions.tufts.edu/academics/majors-and-minors
+University College:  https://universitycollege.tufts.edu
+
+--------------------------------
+
+University: https://www.ucsb.edu
+21 results: 
+Academic Offices:  https://www.ucsb.edu/academics/academic-offices
+Academics:  https://www.ucsb.edu/academics
+Additional Opportunities:  https://www.ucsb.edu/academics/additional-opportunities
+Departments & Programs:  https://www.ucsb.edu/academics/academic-departments-and-programs
+Freshman Applicants - Office of Admissions:  http://admissions.sa.ucsb.edu/applying/freshman
+Graduate Admission:  https://www.ucsb.edu/applying/graduate-admission
+Graduate Degrees - General Catalog:  https://my.sa.ucsb.edu/catalog/Current/GraduateDegrees.aspx
+Graduate Division Admissions and Outreach:  http://www.graddiv.ucsb.edu/admissions
+Graduate Schools and Programs:  https://www.ucsb.edu/academics/graduate
+LinkedIn:  https://www.linkedin.com/school/ucsantabarbara
+Majors, Degrees & Credentials:  https://www.ucsb.edu/about/majors-degrees-and-credentials
+Mentorship and Teaching:  https://www.ucsb.edu/academics/mentorship-and-teaching
+Office of Admissions Home:  http://admissions.sa.ucsb.edu
+On CampusAccess for AllGift to UCSB Arts & Lectures launches Arnhold A&L Education Initiative to expand, enhance educational programming, outreach:  https://www.news.ucsb.edu/2022/020535/access-all
+Professional Education:  https://www.ucsb.edu/academics/professional-and-continuing-education
+Transfer Applicants - Office of Admissions:  http://admissions.sa.ucsb.edu/applying/transfer
+Undergraduate Admission:  https://www.ucsb.edu/applying/undergraduate-admission
+Undergraduate Colleges and Majors:  https://www.ucsb.edu/academics/undergraduate
+Undergraduate Majors - General Catalog:  https://my.sa.ucsb.edu/catalog/Current/UndergraduateDegreeList.aspx
+Undergraduate Research:  https://undergrad.research.ucsb.edu
+Virtual Tour:  http://admissions.sa.ucsb.edu/visit-ucsb/virtual-tours
+
+--------------------------------
+
+University: https://www.ufl.edu
+19 results: 
+Academic Calendar:  https://catalog.ufl.edu/ugrad/current/Pages/dates-and-deadlines.aspx
+Academics:  https://www.ufl.edu/academics
+Admissions:  https://www.ufl.edu/admissions
+Apply:  http://admissions.ufl.edu
+College of Journalism and Communications Helping communities of color tell their own storiesMore:  https://www.jou.ufl.edu/2022/01/31/narrative-justice-project/?utm_source=uf-homepage&utm_medium=story-tile&utm_campaign=narrative-justice-project
+College of Veterinary MedicineUF to open new veterinary hospital at Ocala’s World Equestrian CenterMore:  https://ufhealth.org/news/2021/uf-open-new-veterinary-hospital-ocala-s-world-equestrian-center/?utm_source=uf-homepage&utm_medium=story-tile&utm_campaign=vet-hospital-ocala-wec
+Colleges:  https://www.ufl.edu/academics/colleges
+Courses:  https://www.ufl.edu/academics/courses
+Graduate:  https://www.ufl.edu/admissions/graduate
+International:  http://www.admissions.ufl.edu/prospectiveinternational.html
+Libraries:  https://www.ufl.edu/academics/libraries
+Online Learning:  https://www.ufl.edu/academics/online-learning
+Online Learning:  http://www.ufl.edu/academics/online-learning
+Professional:  https://www.ufl.edu/admissions/professional
+Programs:  https://www.ufl.edu/academics/programs
+Resources:  https://www.ufl.edu/academics/resources
+UF Health liver transplant program outcomes reach No. 1 in nationMore:  https://ufhealth.org/news/2022/uf-health-liver-transplant-program-outcomes-reach-no-1-nation
+Undergraduate:  https://admissions.ufl.edu
+Visit:  https://admissions.ufl.edu/visit
+
+--------------------------------
+
+University: https://www.wfu.edu
+23 results: 
+Academic Calendar:  https://about.wfu.edu/academics/academic-calendars
+Academics:  https://about.wfu.edu/academics
+Admissions:  https://admissions.wfu.edu
+Affordability:  https://admissions.wfu.edu/affordability
+Apply:  https://admissions.wfu.edu/apply
+Campus Life:  https://admissions.wfu.edu/student-experience
+College & Schools:  https://about.wfu.edu/admissions-aid
+Graduate School:  https://graduate.wfu.edu
+Information for the WFU Class of 2026 »:  https://admissions.wfu.edu/wfu26
+Libraries:  https://about.wfu.edu/academics/libraries
+Life at Wake:  https://admissions.wfu.edu/experience-wake-forest
+Majors & Minors:  https://admissions.wfu.edu/academics/majors-minors
+Majors & Minors:  https://about.wfu.edu/academics/majors
+Quick Facts:  https://admissions.wfu.edu/facts
+Ready to apply?:  https://admissions.wfu.edu/apply/applynow
+School of Business:  https://business.wfu.edu
+School of Divinity:  https://divinity.wfu.edu
+School of Law:  https://law.wfu.edu
+School of Medicine:  https://school.wakehealth.edu
+Undergraduate:  http://college.wfu.edu
+Undergraduate College:  https://college.wfu.edu
+Visit & Tours:  https://admissions.wfu.edu/visit/schedule-a-visit
+Winston-Salem, NC:  https://admissions.wfu.edu/visit/winston-salem
+
+--------------------------------
+
+University: https://www.unc.edu
+30 results: 
+#Couldn't find text for this link:  https://www.unc.edu/discover/the-language-studies-program-that-united-carolina-and-duke
+Academic Calendar and Registrar:  https://www.unc.edu/academics/academic-calendar-registrar
+Academic Departments:  https://www.unc.edu/academics/academic-departments
+Academic Enhancements:  https://www.unc.edu/academics/academic-enhancements
+Academics:  https://www.unc.edu/category/academics
+Academics:  https://www.unc.edu/academics
+Adams School of Dentistry:  https://www.unc.edu/school/dentistry
+Admissions and Aid:  https://www.unc.edu/admissions-aid
+College of Arts & Sciences:  https://www.unc.edu/school/college-of-arts-sciences
+Continuing Education Opportunities:  https://www.unc.edu/academics/continuing-education
+Education:  https://www.unc.edu/school/school-of-education
+Eshelman School of Pharmacy:  https://www.unc.edu/school/eshelman-school-of-pharmacy
+Friday Center for Continuing Education:  https://www.unc.edu/academics/friday-center-for-continuing-education
+Gillings School of Global Public Health:  https://www.unc.edu/school/gillings-school-of-global-public-health
+Government:  https://www.unc.edu/school/government
+Graduate School:  https://www.unc.edu/school/graduate-school
+Hussman School of Journalism and Media:  https://www.unc.edu/school/hussman-school
+Information & Library Science:  https://www.unc.edu/school/information-library-science
+IntramuralsOpens in new site:  http://campusrec.unc.edu/programs/intramural-sports
+Kenan-Flagler Business School:  https://www.unc.edu/school/kenan-flagler-business-school
+Law:  https://www.unc.edu/school/law
+Libraries:  https://www.unc.edu/academics/libraries
+Medicine:  https://www.unc.edu/school/medicine
+Nursing:  https://www.unc.edu/school/nursing
+Programs and Curricula:  https://www.unc.edu/academics/programs-curricula
+Schools:  https://www.unc.edu/schools
+Social Work:  https://www.unc.edu/school/social-work
+Sports ClubsOpens in new site:  http://campusrec.unc.edu/programs/sport-clubs
+Summer School:  https://www.unc.edu/academics/summer-school
+UNC Student Stores:  https://unc.bncollege.com/webapp/wcs/stores/servlet/BNCBHomePage?storeId=88196&catalogId=10001&langId=-1
